@@ -1,0 +1,378 @@
+{
+  "app_name": "Attio",
+  "official_domain": "attio.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Overview - Attio Docs",
+        "url": "https://docs.attio.com/docs/overview",
+        "snippet": "Attio is a revolutionary CRM platform which is highly customisable, incredibly powerful and data-driven. In these guides, you can find everything you need to build powerful integrations, automations and data pipelines on top of Attio.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 113,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Attio Developer Platform",
+        "url": "https://attio.com/blog/meet-the-attio-developer-platform",
+        "snippet": "For the developers and GTM builders who need to create durable GTM systems, our platform is open. You can build with our REST API and App SDK, or connect Attio with no- and low-code tools.",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Plans & Pricing | Attio",
+        "url": "https://attio.com/pricing",
+        "snippet": "When you sync your email and calendar, Attio instantly builds a real-time, global database of all your contacts. The more contacts you have in the database, the better our product becomes for you.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "The CRM for scaling your business | Attio",
+        "url": "https://attio.com/p/crm-for-smbs",
+        "snippet": "When you sync your email and calendar, Attio instantly builds a real-time, global database of all your contacts. The more contacts you have in the database, the better our product becomes for you.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "The new era of CRM | Attio",
+        "url": "https://attio.com/p/demo",
+        "snippet": "Powerfully customizable, Attio makes it easy to build the exact CRM your business needs.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "CRM for the next generation of teams. - attio.com",
+        "url": "https://attio.com/p/crm-1807-25",
+        "snippet": "Attio gives you complete control and flexibility to build the perfect CRM that drives revenue forward.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "The powerful CRM to fuel your sales stack | Attio",
+        "url": "https://attio.com/p/crm-for-sales-4",
+        "snippet": "Powerful, flexible and data-driven, Attio makes it easy to build the exact CRM your sales team needs to close more deals.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Attio: The CRM for agentic revenue",
+        "url": "https://attio.com/",
+        "snippet": "Live from day one. Connect your inbox and calendar. Attio learns your business and builds itself around it, before your first agent even gets to work. Start for free",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "Token - Attio Docs",
+        "url": "https://docs.attio.com/docs/oauth/token",
+        "snippet": "An access token for the workspace which can be used to make authenticated requests to the Attio REST API.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Authenticating requests - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/guides/authentication",
+        "snippet": "Attio implements the standard OAuth 2.0 specification. You can find the reference for our OAuth authorize, token exchange and introspect endpoints here. If you would prefer a tutorial on how to implement an OAuth 2.0 flow into an existing app, you can find one here.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Attio API Token - Attio Docs",
+        "url": "https://docs.attio.com/sdk/server/attio-api-token",
+        "snippet": "A token for your app to call the Attio REST API. The token can be passed to the REST API in the Authorization header. When you use this token, the REST API will be called on behalf of your app, so what the API will allow you to do depends on the scopes granted to your app.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Generate an API key | Attio Help Center",
+        "url": "https://attio.com/help/reference/apps/generating-an-api-key",
+        "snippet": "Easily generate API keys for your Attio workspace.",
+        "source_type": "OFFICIAL",
+        "source_score": 93,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Attio | Developer Platform",
+        "url": "https://attio.com/platform/developers",
+        "snippet": "Authenticate connections for users or entire workspaces between Attio and external parties.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "authentication",
+        "official": true
+      }
+    ],
+    "access": [
+      {
+        "title": "Plans & Pricing | Attio",
+        "url": "https://attio.com/pricing",
+        "snippet": "Does Attio have an API? Yes. Attio has a custom API that allows you to integrate with other tools in your stack.",
+        "source_type": "OFFICIAL",
+        "source_score": 80,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Plans & Pricing | Attio",
+        "url": "https://attio.com/pricing?from=@",
+        "snippet": "Workspace Seats Up to 3 Up to 10 Unlimited Unlimited Objects Up to 3 Up to 5 Up to 12 Unlimited Manual activity logging Custom relationship attributes Custom objects Records 50,000 250,000 1,000,000 Custom Record and entry templates Formula attributes Call Intelligence Ask Attio AI agents Integrations API and webhook access App SDK MCP server File storage 50 GB 50 GB Unlimited Unlimited",
+        "source_type": "OFFICIAL",
+        "source_score": 80,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Plans & Pricing | Attio",
+        "url": "https://attio.com/pricing?product=sales",
+        "snippet": "Ask Attio AI agents Integrations API and webhook access App SDK MCP server File storage",
+        "source_type": "OFFICIAL",
+        "source_score": 80,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Plans & Pricing | Attio",
+        "url": "https://attio.com/pricing?goal=scale-support",
+        "snippet": "Workspace Seats Up to 3 Up to 10 Unlimited Unlimited Objects Up to 3 Up to 5 Up to 12 Unlimited Manual activity logging Custom relationship attributes Custom objects Records 50,000 250,000 1,000,000 Custom Record and entry templates Formula attributes Call Intelligence Ask Attio AI agents Integrations API and webhook access App SDK MCP server",
+        "source_type": "OFFICIAL",
+        "source_score": 80,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Pricing | Attio",
+        "url": "https://attio.com/pricing?bbpage=1",
+        "snippet": "See the differences between our plans. Attio pricing and feature comparisons for Attio Free, Plus, Pro, and Enterprise plans.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "access",
+        "official": true
+      }
+    ],
+    "api": [
+      {
+        "title": "OpenAPI - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/endpoint-reference/openapi",
+        "snippet": "Attio exposes a public OpenAPI specification for the Attio REST API. The specification is available here. Was this page helpful?",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 108,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Overview - Attio Docs",
+        "url": "https://docs.attio.com/docs/overview",
+        "snippet": "In these guides, you can find everything you need to build powerful integrations, automations and data pipelines on top of Attio. Our docs cover guides, examples, references and code to help you build apps and share them with Attio's customers or for your own workspace.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 100,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Overview - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/overview",
+        "snippet": "Attio provides a public REST API which exchanges JSON over HTTPS. In this section, you will find guidance about working with the API. To get up and running, read our guide on how to authenticate requests. From there, feel free to explore other topics or jump straight to the reference documentation.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Authenticating requests - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/guides/authentication",
+        "snippet": "Attio implements the standard OAuth 2.0 specification. You can find the reference for our OAuth authorize, token exchange and introspect endpoints here. If you would prefer a tutorial on how to implement an OAuth 2.0 flow into an existing app, you can find one here.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Attio | Developer Platform",
+        "url": "https://attio.com/platform/developers",
+        "snippet": "Integrate Attio with anything. Start coding with a simple REST API that’s secure and built for scale.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "docs_attio_com_rest-api_endpoint-reference_openapi.md",
+        "url": "https://github.com/pidub-step/attio-docs/blob/main/docs_attio_com_rest-api_endpoint-reference_openapi.md",
+        "snippet": "Access the OpenAPI specification for the Attio REST API Attio exposes a public OpenAPI specification for the Attio REST API. The specification is available here.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 3,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "attio-tools/docs/rest-api/overview.md at main · Genei-Ltd ...",
+        "url": "https://github.com/Genei-Ltd/attio-tools/blob/main/docs/rest-api/overview.md",
+        "snippet": "If you're looking to move beyond just the REST API and understand the Attio developer platform as a whole, you can find general documentation for Attio developers here.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -4,
+        "field": "api",
+        "official": false
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "List webhooks - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/endpoint-reference/webhooks/list-webhooks",
+        "snippet": "Get all of the webhooks in your workspace. Required scopes: webhook:read.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 131,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Create a webhook - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/endpoint-reference/webhooks/create-a-webhook",
+        "snippet": "Create a webhook and associated subscriptions. Each combination of target URL, event type and filter must be unique within your workspace; duplicates are rejected with a 409. Required scopes: webhook:read-write.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 121,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Configuring webhooks - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/guides/webhooks",
+        "snippet": "Creating webhooks over the API is essential for those building integrations for Attio that will operate for many customers. The webhook APIs also allow you to utilise our powerful filtering functionality (see “Filtering” section below).",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 119,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Get a webhook - Attio Docs",
+        "url": "https://docs.attio.com/rest-api/endpoint-reference/webhooks/get-a-webhook",
+        "snippet": "Get a single webhook. Required scopes: webhook:read. This API uses OAuth 2.0 with the authorization code grant flow.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 118,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Overview - Attio Docs",
+        "url": "https://docs.attio.com/docs/overview",
+        "snippet": "In these guides, you can find everything you need to build powerful integrations, automations and data pipelines on top of Attio. Our docs cover guides, examples, references and code to help you build apps and share them with Attio’s customers or for your own workspace.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 100,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhook Handlers - Attio Docs",
+        "url": "https://docs.attio.com/sdk/server/webhooks/webhook-handlers",
+        "snippet": "Webhook handlers enable apps to receive incoming requests from third-party services. Unlike server functions, which are used to send requests, Webhook handlers are designed to listen for and process external requests. They can be used to sync data into Attio or respond with on-demand data to third-party services, making them essential for integrating external systems and automating workflows ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 98,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Attio | Developer Platform",
+        "url": "https://attio.com/platform/developers",
+        "snippet": "Build your Attio, your way. Extend Attio in TypeScript and React with the App SDK.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "webhooks",
+        "official": true
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Attio MCP - Attio Docs",
+        "url": "https://docs.attio.com/mcp/overview",
+        "snippet": "Learn how to connect AI agents to your Attio workspace. Connect your AI tools to Attio using the Model Context Protocol (MCP), an open standard that lets AI assistants interact with your Attio CRM workspace.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 101,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "MCP Server | Attio",
+        "url": "https://mcp.attio.com/",
+        "snippet": "Search for Attio 3. Connect Attio **For other MCP clients:** Add `https://mcp.attio.com/mcp` as a remote MCP server and complete the OAuth authentication when prompted.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "MCP Server | Attio",
+        "url": "https://mcp.attio.com/mcp",
+        "snippet": "Search for Attio 3. Connect Attio **For other MCP clients:** Add `https://mcp.attio.com/mcp` as a remote MCP server and complete the OAuth authentication when prompted.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Attio MCP | Attio Help Center",
+        "url": "https://attio.com/help/reference/attio-ai/attio-mcp",
+        "snippet": "To set up and configure Attio MCP, including authentication and supported actions, refer to the developer documentation for Attio MCP. The developer docs provide full setup instructions, technical requirements, and implementation details. To see example prompts and best practices for using the Attio MCP, see Attio MCP: prompts and best practices.",
+        "source_type": "OFFICIAL",
+        "source_score": 85,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Building the Attio MCP server",
+        "url": "https://attio.com/engineering/blog/building-the-attio-mcp-server",
+        "snippet": "Feb 19, 2026 · Here’s everything we learned about how to build a great MCP that makes these use cases possible. The obvious approach to building an MCP server is to wrap a pre-existing API. There are many services that will take an OpenAPI spec, auto-generate some tools, and present you with a functional MCP server.",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Architecture overview - Model Context Protocol",
+        "url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+        "snippet": "Jul 28, 2026 · This overview of the Model Context Protocol (MCP) discusses its scope and core concepts, and provides an example demonstrating each core concept. Because MCP SDKs abstract away many concerns, most developers will likely find the data layer protocol section to be the most useful. It discusses how MCP servers can provide context to an AI application. For specific implementation details, please ...",
+        "source_type": "MCP_REGISTRY",
+        "source_score": 34,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "GitHub - MikkohChen/mcp-attio: Attio Model Context Protocol ...",
+        "url": "https://github.com/MikkohChen/mcp-attio",
+        "snippet": "🎯 What is Attio MCP Server? Transform your CRM workflows with AI-powered automation. Instead of clicking through multiple screens, simply ask Claude or ChatGPT to find prospects, update records, manage pipelines, and analyze your data using natural language commands.",
+        "source_type": "COMMUNITY_GITHUB",
+        "source_score": 26,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "GitHub - kesslerio/attio-mcp-server: Attio Model Context ...",
+        "url": "https://github.com/kesslerio/attio-mcp-server",
+        "snippet": "🎯 What is Attio MCP Server? Transform your CRM workflows with AI-powered automation. Instead of clicking through multiple screens, simply ask Claude or ChatGPT to find prospects, update records, manage pipelines, and analyze your data using natural language commands.",
+        "source_type": "COMMUNITY_GITHUB",
+        "source_score": 16,
+        "field": "mcp",
+        "official": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "app_name": "HubSpot",
+  "official_domain": "hubspot.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Developer platform - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/apps/developer-platform/overview",
+        "snippet": "Sep 8, 2026 · HubSpot’s new developer platform, built and managed via projects, provides multiple advantages over legacy private and public apps, including a new file-based build-and-deploy framework.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 108,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "HubSpot Product & Services Catalog",
+        "url": "https://legal.hubspot.com/hubspot-product-and-services-catalog",
+        "snippet": "Below, you’ll find an overview of our pricing, descriptions of each product, a list of features associated with each product package, and any limits that apply.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Explore HubSpot's Products, Features, and Benefits | HubSpot",
+        "url": "https://www.hubspot.com/products",
+        "snippet": "Explore all of HubSpot's features and products to understand what HubSpot is used for and how it enhances collaboration and efficiency in your company.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "HubSpot | Software & Tools for your Business - Homepage",
+        "url": "https://www.hubspot.com/",
+        "snippet": "HubSpot's customer platform includes all the marketing, sales, customer service, and CRM software you need to grow your business.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "HubSpot Academy - Homepage",
+        "url": "https://academy.hubspot.com/",
+        "snippet": "Explore all that HubSpot Academy has to offer, from on-demand training to live workshops and user groups. Learn everything you need to get started with HubSpot or master the platform, as well as the most sought-after business and technical skills.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "HubSpot Knowledge Base",
+        "url": "https://knowledge.hubspot.com/",
+        "snippet": "How-to, reference, and troubleshooting documentation for HubSpot’s CRM, CMS, Marketing, Sales, and Service tools.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "HubSpot Login and Sign in",
+        "url": "https://app.hubspot.com/login",
+        "snippet": "Sign into your HubSpot account through HubSpot's login page. No login? Signup for a free account.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "Manage OAuth access tokens with the 2026-09 API - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/api-reference/latest/authentication/manage-oauth-tokens",
+        "snippet": "Sep 8, 2026 · Learn how to use the 2026-09 OAuth endpoints to manage access and refresh tokens to securely perform CRUD actions with HubSpot APIs.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 138,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Working with OAuth - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/oauth/working-with-oauth",
+        "snippet": "OAuth is a secure means of authentication that uses authorization tokens rather than a password to connect your app to a user account. Initiating OAuth access is the first step towards allowing users to install your app in their HubSpot accounts.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 114,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Authentication overview - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/overview",
+        "snippet": "HubSpot provides a Node.js quickstart guide here, which includes code you can run in a Docker instance with full OAuth support. Authentication configuration details for your app are available on the app details page in the developer overview of your HubSpot account.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 111,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Working with OAuth - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/apps/legacy-apps/authentication/working-with-oauth",
+        "snippet": "Mar 29, 2026 · This HubSpot Academy tutorial provides a quick introduction on using OAuth with HubSpot, including a breakdown of the HubSpot-OAuth flow and how to refresh an access token.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 111,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Oauth2Authentication | @hubspot/api-client",
+        "url": "https://github.hubspot.com/hubspot-api-nodejs/classes/files.Oauth2Authentication.html",
+        "snippet": "Documentation for @hubspot/api-client constructor new Oauth2Authentication(accessToken): Oauth2Authentication Configures OAuth2 with the necessary properties",
+        "source_type": "OFFICIAL",
+        "source_score": 94,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "How do I enable OAuth authentication for the conversations API in HubSpot?",
+        "url": "https://community.hubspot.com/t/how-do-i-enable-oauth-authentication-for-the-conversations-api-in-hubspot/141943",
+        "snippet": "I need to get access to the Conversations API, but first I seem unable to get a auth token for any scope. I created an app, saved the client id and secret, and then followed the instructions here: GitHub - HubSpot/oauth-quickstart-nodejs: A Node JS app to get up and running with the HubSpot API using OAuth 2.0 · GitHub I configured the app, entering the client id and secret, and ran it. It ...",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "oauth | @hubspot/api-client - GitHub",
+        "url": "https://github.hubspot.com/hubspot-api-nodejs/modules/oauth.html",
+        "snippet": "@hubspot/api-client oauth Module oauth Defined in codegen/oauth/index.ts:1 Index Enumerations HttpMethod",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "AccessTokensApi | @hubspot/api-client",
+        "url": "https://github.hubspot.com/hubspot-api-nodejs/classes/oauth.AccessTokensApi.html",
+        "snippet": "Retrieve a token's metadata, including the email address of the user that the token was created for and the ID of the account it's associated with. Note: HubSpot access tokens will fluctuate in size as the information that's encoded in them changes over time.",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "authentication",
+        "official": true
+      }
+    ],
+    "access": [
+      {
+        "title": "Quotes API - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/api-reference/latest/crm/objects/quotes/guide",
+        "snippet": "Sep 8, 2026 · Use the quotes API to create and manage HubSpot quotes for sharing pricing with buyers, collecting signatures, and more.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 118,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "APIs by tier - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/developer-tooling/platform/apis-by-tier",
+        "snippet": "Apr 14, 2026 · Use the table below to check which APIs you can access based on your current subscription. Rate limits also differ by tier — learn more in the API usage guidelines.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Customer Platform Pricing | HubSpot",
+        "url": "https://www.hubspot.com/pricing/suite",
+        "snippet": "Customer Platform plans include all HubSpot Hubs available to the edition of your plan as well as a number of included HubSpot Credits that can be used to power agents and features that deliver work to scale your impact.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "API Pricing - Marketplace Apps - HubSpot Community",
+        "url": "https://community.hubspot.com/t/api-pricing/9952",
+        "snippet": "Aug 23, 2018 · There are specific references to the API pricing and calls. However, keep an eye on this page over the next month or so after announcements at INBOUND, as it may be subject to change.",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Accessing HubSpot Calendar Availability via API",
+        "url": "https://community.hubspot.com/t/accessing-hubspot-calendar-availability-via-api/137422",
+        "snippet": "Aug 4, 2025 · We’re integrating HubSpot meeting availability with Bland.ai through webhooks. Can you guide us on how to access available time slots via your API or suggest the best way to pull that data?",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "HubSpot Developer Documentation - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs",
+        "snippet": "Bring Productivity To Life Through Code Search or ask… Welcome to the HubSpot Developer Documentation. Build custom CRM and data-driven website experiences on HubSpot. Follow the steps below to get started, or jump directly into a quickstart that fits your build.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Marketing Software Pricing | HubSpot",
+        "url": "https://www.hubspot.com/pricing/marketing",
+        "snippet": "HubSpot Credits provide a simple, flexible way to power AI agents and features that deliver work to scale your impact. Learn more about the agents and features that run on HubSpot Credits with our Rate Sheet.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "HubSpot Status",
+        "url": "https://status.hubspot.com/",
+        "snippet": "Resolved - Between 11:46 AM EDT (UTC -04:00) and 12:45 PM EDT (UTC -04:00), some customers in North America experienced degraded loading times with some HubSpot tools.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "access",
+        "official": true
+      }
+    ],
+    "api": [
+      {
+        "title": "2026-09 API reference - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/api-reference/latest/overview",
+        "snippet": "Sep 8, 2026 · Reference documentation for HubSpot’s 2026-09 APIs The 2026-09 APIs use a date-based versioning scheme (e.g., /crm/2026-09/) that follows the previous 2026-03 API version.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 125,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "What Is an API Endpoint? Examples + Pro Dev Tips - HubSpot Blog",
+        "url": "https://blog.hubspot.com/website/api-endpoint",
+        "snippet": "An API endpoint is a digital location where an API receives requests about a specific resource on its server. In APIs, an endpoint is typically a uniform resource locator (URL) that provides the location of a resource on the server. To fully understand this definition and where endpoints fit in the API model, let's briefly review how APIs work.",
+        "source_type": "OFFICIAL",
+        "source_score": 79,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Swagger Documentation Needed for hubspot REST APIs",
+        "url": "https://community.hubspot.com/t/swagger-documentation-needed-for-hubspot-rest-apis/70630",
+        "snippet": "Dec 6, 2022 · “All HubSpot APIs are built using REST conventions and designed to have a predictable URL structure.” If you can tell the community specific what you are not seeing and, specifically, where you are looking, we can better understand how to help.",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "APIs and Endpoints - APIs & Integrations - HubSpot Community",
+        "url": "https://community.hubspot.com/t/apis-and-endpoints/77780",
+        "snippet": "What is the Entity-Relationship Model or Entity-Relationship Diagram of the data that is retrieved by the endpoints? The most current python lib for consuming the endpoint data is hubspot-api-client 7.5.0? What is the consumption limit of the endpoints? The question is because we want to extract all data from the start of the operation.",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "HubSpot Developer Documentation - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs",
+        "snippet": "Bring Productivity To Life Through Code Search or ask… Welcome to the HubSpot Developer Documentation. Build custom CRM and data-driven website experiences on HubSpot. Follow the steps below to get started, or jump directly into a quickstart that fits your build.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "documentation-example - github.hubspot.com",
+        "url": "https://github.hubspot.com/documentation-example/api/overview/",
+        "snippet": "Projects Messenger Facewall jQuery Zoomer Humanize Teeble Development Team Home Teams People Jobs Developer API Developer Documentation",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Find API end points - APIs & Integrations - HubSpot Community",
+        "url": "https://community.hubspot.com/t/find-api-end-points/103113",
+        "snippet": "To find available endpoints, I typically use the HubSpot API reference documentation page and the left-hand sidebar, the HubSpot API Overview for Legacy endpoints, or if I just need something fast, I find success by searching Google using the following query \"HubSpot API + {Object}\".",
+        "source_type": "OFFICIAL",
+        "source_score": 64,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Hubspot OpenAPI - APIs & Integrations - HubSpot Community",
+        "url": "https://community.hubspot.com/t/hubspot-openapi/84674",
+        "snippet": "Jul 4, 2023 · Hi! I am a bit new with Hubspot’s api. I want to know where can I get documnetation of all hubspot OpenAPI references. For example: https://api.hubspot.com/api-catalog-public/v1/apis/crm/v3/contacts I found this lin…",
+        "source_type": "OFFICIAL",
+        "source_score": 61,
+        "field": "api",
+        "official": true
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Webhooks API guide - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/api-reference/latest/webhooks/guide",
+        "snippet": "Sep 8, 2026 · The webhooks API allows you to subscribe to events happening in a HubSpot account with your integration installed. Rather than making an API call when an event happens in a connected account, HubSpot can send an HTTP request to an endpoint you configure.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 144,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Configure a webhook subscription - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/apps/developer-platform/add-features/configure-webhooks",
+        "snippet": "Mar 29, 2026 · Webhooks enable your app to receive real-time notifications when specific events occur in a HubSpot account. Instead of repeatedly polling HubSpot’s APIs to check for changes, webhooks push event data to your application as soon as it happens.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 114,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "webhooks | @hubspot/api-client - GitHub",
+        "url": "https://github.hubspot.com/hubspot-api-nodejs/modules/webhooks.html",
+        "snippet": "@hubspot/api-client webhooks Module webhooks Defined in codegen/webhooks/index.ts:1 Index Enumerations BatchResponseSubscriptionResponseStatusEnum BatchResponseSubscriptionResponseWithErrorsStatusEnum HttpMethod SubscriptionCreateRequestEventTypeEnum SubscriptionResponseEventTypeEnum",
+        "source_type": "OFFICIAL",
+        "source_score": 97,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "How to Trigger Webhooks in HubSpot Contact-Based WorkflowsHow to implement Webhooks in HubSpot, and how do they differ ...webhooks | @hubspot/api-client - GitHubWebhooks: A complete look into real-time data integrationHow to setup a Webhook in HubSpot - APIs & Integrations ...",
+        "url": "https://knowledge.hubspot.com/Workflows/How-do-I-use-webhooks-with-HubSpot-Workflows",
+        "snippet": "See full list on knowledge.hubspot.com See full list on knowledge.hubspot.com When setting up your POST or GETwebhook, you can execute a test to view the webhook response. During the test, while data is sent to and retrieved from a third party, existing records in HubSpot will not be affected. If you're using an API key for authentication, the API key will not display in any test requests. After testing your webhook, you can... See full list on knowledge.hubspot.com After you create your workflow with a webhook action, you can run a quick test with a dummy webhook URL: 1. In your browser, navigate to https://webhook.site and copy the unique URL. 2. In the Webhook URLfield in your webhook action, paste the URL. 3. Once your workflow has been turned on, you can manually enroll a test contact. 1. When testing you... See full list on knowledge.hubspot.com Where you've selected Request signature in the Authentication section for your Trigger a webhook action, HubSpot will populate the webhook with a X-HubSpot-Signature header with a SHA-256 hash of the concatenation of the app-secret for your application, the HTTP method, the URI, and the unparsed body. Learn more about this in the developers documen... See full list on knowledge.hubspot.com Webhooks can be used to trigger workflows. When data changes in a third party app, this can trigger a workflow. Learn more about triggering workflows from webhooks. See full list on knowledge.hubspot.com Data from the webhook connected to your account can be used for certain actions in the data panel. To use data from the connected webhook: 1. In your HubSpot account, navigate to Automations > Workflows. 2. Click the nameof your workflow. 3. Click the + plus iconto add an action. 4. In the left panel, select an action that uses the data panel. 5. I... See full list on knowledge.hubspot.com Jul 23, 2020 · HubSpot provides a number of different APIs and in addition to that we also offer the option of leveraging webhooks. This post discusses this in more detail and also elaborates on different methods of implementation. @hubspot/api-client webhooks Module webhooks Defined in codegen/webhooks/index.ts:1 Index Enumerations BatchResponseSubscriptionResponseStatusEnum BatchResponseSubscriptionResponseWithErrorsStatusEnum HttpMethod SubscriptionCreateRequestEventTypeEnum SubscriptionResponseEventTypeEnum May 19, 2026 · Common webhook providers include Stripe for payment events, Twilio for SMS and communication notifications, GitHub for repository activities, HubSpot for CRM and marketing automation events (contact updates, deal closures, form submissions), and Shopify for ecommerce transactions. Oct 9, 2023 · The Webhooks API is available for all subscription levels from free to enterprise. It allows you to create an application that subscribes to various events occurring within any portal with your application installed.",
+        "source_type": "OFFICIAL",
+        "source_score": 89,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "How to implement Webhooks in HubSpot, and how do they differ ...",
+        "url": "https://community.hubspot.com/t/how-to-implement-webhooks-in-hubspot-and-how-do-they-differ-from-an-api/23294",
+        "snippet": "Jul 23, 2020 · HubSpot provides a number of different APIs and in addition to that we also offer the option of leveraging webhooks. This post discusses this in more detail and also elaborates on different methods of implementation.",
+        "source_type": "OFFICIAL",
+        "source_score": 84,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Use webhooks in agents - knowledge.hubspot.com",
+        "url": "https://knowledge.hubspot.com/ai/use-webhooks-in-agents",
+        "snippet": "Jul 24, 2026 · Learn how to use webhook actions in agents to connect with external systems, improving data retrieval and triggering processes efficiently.",
+        "source_type": "OFFICIAL",
+        "source_score": 83,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks: A complete look into real-time data integration",
+        "url": "https://blog.hubspot.com/website/webhook-guide",
+        "snippet": "May 19, 2026 · In this article, we’ll break down how webhooks work, the problems they solve, and how developers can implement them in a way that drives both technical efficiency and measurable business impact.",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "webhooks",
+        "official": true
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Integrate AI tools with the HubSpot MCP server - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/integrate-with-the-remote-hubspot-mcp-server",
+        "snippet": "The HubSpot Model Context Protocol (MCP) server enables AI assistants and Large Language Models to securely interact with your HubSpot CRM data through natural conversation. By implementing the Model Context Protocol standard, this remote server acts as a bridge between AI systems and HubSpot's APIs, allowing for intelligent automation and insights without requiring users to understand ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 121,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Set up the developer MCP server - HubSpot docs",
+        "url": "https://developers.hubspot.com/docs/developer-tooling/local-development/developer-mcp/setup",
+        "snippet": "Apr 15, 2026 · Learn how to use HubSpot's locally installed MCP server in your IDE to streamline app and CMS content development.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 121,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "HubSpot MCP Server",
+        "url": "https://developers.hubspot.com/ai-tools/mcp",
+        "snippet": "HubSpot offers two distinct MCP (Model Context Protocol) servers — one for connecting any MCP-compatible AI tool or agent to your CRM, and one for building on the HubSpot Developer Platform. Whether you're querying data, writing records, or embedding HubSpot context into an agentic tool you're building, there's a server for that.",
+        "source_type": "OFFICIAL",
+        "source_score": 96,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Model Context Protocol (MCP) - HubSpot",
+        "url": "https://www.hubspot.com/glossary/model-context-protocol-mcp",
+        "snippet": "Model Context Protocol (MCP) Model Context Protocol (MCP) is an open standard that allows AI assistants to read and write data across connected applications in real time, giving large language models (LLMs) structured, secure access to the tools and systems a business already uses.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "MCP Server - Definitions, FAQs & How HubSpot Helps",
+        "url": "https://www.hubspot.com/glossary/mcp-server",
+        "snippet": "By connecting an AI interface to HubSpot CRM through an MCP server, teams can surface live contact details, update deal records, and act on intent signals without leaving their AI assistant or building bespoke integrations for every task.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "The HubSpot MCP Server - available in Public Beta",
+        "url": "https://community.hubspot.com/t/the-hubspot-mcp-server-available-in-public-beta/131133",
+        "snippet": "May 6, 2025 · The HubSpot MCP server is now available in public beta. It allows AI clients such as Cursor and Claude to interact with HubSpot data and unlocks powerful integration possibilities.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "HubSpot Developer MCP server (local) for App and CMS ...",
+        "url": "https://community.hubspot.com/t/hubspot-developer-mcp-server-local-for-app-and-cms-development-now-in-ga/146451",
+        "snippet": "Feb 19, 2026 · The local HubSpot Developer MCP Server is now generally available, enabling developers to create apps and CMS assets through agentic tools like VS Code, Claude Code, Cursor, OpenAI Codex, Gemini CLI, and other MCP-compatible tools.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Your HubSpot context in every AI tool | HubSpot",
+        "url": "https://www.hubspot.com/ai-tools",
+        "snippet": "The HubSpot MCP server (remote) is now generally available. It's a secure, HubSpot-hosted Model Context Protocol server that lets any MCP-compatible AI tool — from custom agents to third-party applications — read and write to your HubSpot CRM through natural conversation.",
+        "source_type": "OFFICIAL",
+        "source_score": 69,
+        "field": "mcp",
+        "official": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "app_name": "Salesforce",
+  "description": {
+    "value": "Complete Salesforce Products & Software Suite | Salesforce",
+    "evidence": [
+      {
+        "url": "https://www.salesforce.com/products/",
+        "quote": "Complete Salesforce Products & Software Suite | Salesforce"
+      }
+    ],
+    "confidence": "HIGH"
+  },
+  "authentication": {
+    "methods": [
+      "UNKNOWN"
+    ],
+    "evidence": [
+      {
+        "url": "https://developer.salesforce.com/docs/platform/api-rest/guide/quickstart-oauth.html",
+        "quote": "To successfully send requests, REST API requires an access token obtained by authentication."
+      },
+      {
+        "url": "https://developer.salesforce.com/docs/platform/api-rest/guide/quickstart.html",
+        "quote": "To successfully send requests, REST API requires an access token obtained by authentication."
+      }
+    ],
+    "confidence": "LOW"
+  },
+  "access_model": {
+    "classification": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "api": {
+    "styles": [
+      "UNKNOWN"
+    ],
+    "breadth": "UNKNOWN",
+    "resources": [
+      "/services/data/v68.0/sobjects/Account"
+    ],
+    "actions": [
+      "standard actions"
+    ],
+    "webhooks": "UNKNOWN",
+    "evidence": [
+      {
+        "url": "https://developer.salesforce.com/docs/platform/api-rest/guide/resources-list.html",
+        "quote": "The following table lists supported REST resources in the API and provides a brief description for each."
+      }
+    ],
+    "confidence": "LOW"
+  },
+  "mcp": {
+    "classification": "OFFICIAL_MCP_EXISTS",
+    "evidence": [
+      {
+        "url": "https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/hosted-mcp-servers-overview.html",
+        "quote": "Salesforce Hosted MCP Servers give AI agents a secure, governed way to interact with Salesforce data and automation."
+      }
+    ],
+    "confidence": "HIGH"
+  },
+  "buildability": {
+    "blockers": [],
+    "reasoning": "No blockers found."
+  }
+}

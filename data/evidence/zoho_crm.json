@@ -1,0 +1,414 @@
+{
+  "app_name": "Zoho CRM",
+  "official_domain": "zoho.com/crm",
+  "sources": {
+    "description": [
+      {
+        "title": "Zoho CRM Software Overview 2026 - Features & Pricing",
+        "url": "https://www.softwareadvice.com/crm/zoho-crm-profile/",
+        "snippet": "Zoho CRM is a cloud-based business management platform that caters to businesses of all sizes. It offers sales and marketing automation tools with helpdesk, analytics and customer support functions. Zoho CRM helps users respond to customers across channels in real-time.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -27,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "What is Zoho CRM ? | Overview of Zoho CRM Software",
+        "url": "https://www.zoho.com/crm/what-is-zoho-crm.html",
+        "snippet": "Zoho CRM is an award-winning cloud CRM Software, Trusted by both customers and critics. Find out Why should you choose Zoho CRM for your business & more!",
+        "source_type": "THIRD_PARTY",
+        "source_score": -30,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "Powerful Crm Platform - Attio | Next Generation CRM",
+        "url": "https://www.bing.com/aclick?ld=e8kvrDHmubrOWQl4z95WnAazVUCUxXD4kYWge_mTMPWWifnDe2_wbzhDlLGEMQmrjSerEVX-ioL4177OrB5gNAIIdkaOOYKJLXUsI5iFCtnCWsIWqbzc1NV6MQk0Icgoeq7Lib1I-W4JVUUICSWdTtU4w_XbddJKhxsKHlDtp3VVuNMvrvUSredTzebIfiT7vqDmU2eZSse8FPXeeHsZjD9qAYatM&u=aHR0cHMlM2ElMmYlMmZhdHRpby5jb20lMmZwJTJmY3JtLTEwMzEtMjQlM2Z1dG1fc291cmNlJTNkYmluZ19hZHMlMjZ1dG1fY2FtcGFpZ24lM2Q0ODI3ODM0MTUlMjZ1dG1fdGVybSUzZGNybSUyNTIwcGxhdGZvcm0lMjZ1dG1fbWVkaXVtJTNkcHBjJTI2bXNjbGtpZCUzZGQ3MjkxNDc4Yjk5MTE5MTk1MzIzN2VkM2JhZDQyODNk&rlid=d7291478b991191953237ed3bad4283d",
+        "snippet": "Manage customers like never before. Build powerful workflows, automations, and reports now. Get an enriched CRM in seconds of syncing your email and calendar. Start for free. Service Features, Opinionated CRM, Email Integration, Built-In Enrichment and more",
+        "source_type": "THIRD_PARTY",
+        "source_score": -30,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM's full feature suite - built for scale, built for sales",
+        "url": "https://www.zoho.com/crm/features.html",
+        "snippet": "Explore powerful CRM features - from AI and automation to customisation and business intelligence. Everything you need to grow, in one platform.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -37,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM | Top-rated Sales CRM Software by Customers",
+        "url": "https://www.zoho.com/crm/?src=zoho",
+        "snippet": "Zoho CRM is an AI-powered online CRM solution that streamlines your customer operations within a single platform. Trusted by over 300,000 businesses worldwide.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -37,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM (application) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zoho_CRM_(application)",
+        "snippet": "Zoho CRM is a cloud-based customer relationship management (CRM) application developed by Zoho Corporation, an India-based technology company. It is delivered as a software-as-a-service (SaaS) product and includes features for managing sales processes, marketing activities, and customer support. [1][2]",
+        "source_type": "THIRD_PARTY",
+        "source_score": -37,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM | Built-in AI Agents",
+        "url": "https://www.zoho.com/crm/?product=crm",
+        "snippet": "Zoho CRM is the best CRM to grow with. Zoho CRM comes with built-in AI agents, advanced automation, powerful reporting capability, and integrates with more than 1,200 business apps.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "description",
+        "official": false
+      },
+      {
+        "title": "What is Customer Relationship Management (CRM) software ... - Zoho",
+        "url": "https://www.zoho.com/crm/crm-software.html",
+        "snippet": "Customer Relationship Management (CRM) software is a software application developed to help organizations build better relationships with customers and manage interactions with existing and potential customers. try now.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "description",
+        "official": false
+      }
+    ],
+    "authentication": [
+      {
+        "title": "OAuth 2.0 Authentication | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/oauth-overview.html",
+        "snippet": "The Zoho CRM API uses the OAuth 2.0 protocol for authentication. OAuth 2.0 is an industry-standard protocol specification that enables third-party applications (clients) to gain delegated access to protected resources in Zoho via an API.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 9,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Authorization Request | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/auth-request.html",
+        "snippet": "To use the Zoho CRM APIs, the users must authenticate the application to make API calls on their behalf with an access token. The access token, in return, must be obtained from a grant token (authorization code).",
+        "source_type": "THIRD_PARTY",
+        "source_score": -1,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Refresh Access Tokens | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/refresh.html",
+        "snippet": "Learn more on how to refresh your access tokens, that expire in an hour, using your refresh token provided during authorization.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -1,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Auth to External OAuth - APIs | Online Help - Zoho CRM",
+        "url": "https://www.zoho.com/crm/developer/docs/api/external-oauth.html",
+        "snippet": "Use this API when your application has multiple users and it obtains their username and password to generate an auth token, or if the users input their auth tokens.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -7,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Client Credentials | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/client-credentials.html",
+        "snippet": "Using the client credentials flow, self-functioning clients can obtain an access token for Zoho CRM APIs by sending their client credentials to the authorization server.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -11,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/",
+        "snippet": "Use Zoho CRM's V8 APIs to create custom solutions to your requirements and integrate third-party applications seamlessly with Zoho CRM.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Scopes | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/scopes.html",
+        "snippet": "Zoho CRM APIs use selected scopes, which control the type of resource that the client application can access. Tokens are usually created with various scopes to ensure improved security.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Access & Refresh Tokens | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/access-refresh.html",
+        "snippet": "You must use your domain-specific Zoho accounts URL to generate access and refresh tokens. The following are the various domains and their corresponding accounts URLs.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "authentication",
+        "official": false
+      }
+    ],
+    "access": [
+      {
+        "title": "APIs and References | Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/api-references.html",
+        "snippet": "Data Sharing in Zoho CRM gives you an option to extend the access rights to CRM records for users belonging to other roles and groups. By default, the Organization Permissions is set as private allowing only the record owner and their manager can view and access the CRM data.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -5,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Limits - API | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/api-limits.html",
+        "snippet": "The API credit limits for trial editions are the same as those of their corresponding paid editions. For example, the Enterprise trial edition follows the same API limits as the Enterprise paid edition. For more information, refer to the feature-wise allowed limits of Zoho CRM editions.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -14,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Increase API Credits from the Dashboard | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/purchase-from-dashboard.html",
+        "snippet": "The below table gives the pricing details for different credit slabs. ... Here is a calculator to know the amount payable based on your DC, add-on credits and the payment period.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -14,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/",
+        "snippet": "Use Zoho CRM's V8 APIs to create custom solutions to your requirements and integrate third-party applications seamlessly with Zoho CRM.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM SDKs | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/zoho-crm-sdks.html",
+        "snippet": "Discover Zoho CRM's comprehensive SDK suite containing PHP SDK, Node.js SDK, Java SDK, C# SDK, Python SDK, Ruby SDK, Typescript SDK, Scala SDK and Javascript SDK. Learn about server-side and client-side SDKs, their benefits, and how they streamline CRM data exchange and authentication processes.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "API Collection | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/api-collection.html",
+        "snippet": "The Zoho CRM REST API Postman collection is a set of all the Zoho CRM API requests. Using these boilerplate requests, you can test and explore the CRM APIs in various environments for multiple organizations.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM | API and SDK Library",
+        "url": "https://www.zoho.com/crm/developer/api.html",
+        "snippet": "Track your account's API usage and get in-depth information about your top API consumers, API usage pattern, average daily usage, usage access points, and top API methods used, through Zoho CRM's intuitive API usage dashboards.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -32,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM | Developer Tools and API",
+        "url": "https://www.zoho.com/crm/developer/",
+        "snippet": "Build apps for Zoho CRM, create serverless Deluge functions, and customize your Zoho CRM experience using a collection of developer tools.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "access",
+        "official": false
+      }
+    ],
+    "api": [
+      {
+        "title": "Zoho CRM REST API Collection",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/api-collection.html",
+        "snippet": "The Zoho CRM REST API Postman collection is a set of all the Zoho CRM API requests. Using these boilerplate requests, you can test and explore the CRM APIs in various environments for multiple organizations.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -4,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "APIs and References | Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/api-references.html",
+        "snippet": "In Zoho CRM, the administrator assigns a profile to every user which decides the user's level of access to Zoho CRM data. Use these APIs to perform CRUD operations on the profiles in your organization.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -5,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "Developer Resources | Zoho CRM",
+        "url": "https://www.zoho.com/crm/developer/docs/",
+        "snippet": "Bring in contextual data directly into the CRM platform using Queries. Pull data from CRM modules by selecting module and fields or using COQL queries, or fetch data from third party sources using REST APIs.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -12,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM API Directory | Explore, Search & Filter APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api-directory.html",
+        "snippet": "The API Directory provides a comprehensive list of all Zoho CRM APIs, along with links to their corresponding documentation. Please use the search bar to filter the list by API name, module, functionality or API endpoints.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -14,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/",
+        "snippet": "Use Zoho CRM's V8 APIs to create custom solutions to your requirements and integrate third-party applications seamlessly with Zoho CRM.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM | API and SDK Library",
+        "url": "https://www.zoho.com/crm/developer/api.html",
+        "snippet": "Zoho CRMs REST API and client libraries for Java, PHP, Python, and Node.js to speed up your app development and customize your account.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -29,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "Powerful API Integrations - Build Your Own CRM",
+        "url": "https://www.bing.com/aclick?ld=e83fKX39R7QvvwD119jYo_zDVUCUw9KMmn66Js-5soznjc9GE04OYXVa3SzdLElyZKOUqRoHFneY4YzZ1MFx5xqqEVS2wOnowaCi9EtM9aXpOOFQrNgC2epl-veb6ZEnR6Rh41fpke8-hHyi-MrGAsYh8bC93xqHbqVD6kXB6g3uwlUlHapW-yZSXcdBryZPdP-gyD9Q&u=aHR0cHMlM2ElMmYlMmZhdHRpby5jb20lMmZwJTJmY3JtLTEwMzEtMjQlM2Z1dG1fc291cmNlJTNkYmluZ19hZHMlMjZ1dG1fY2FtcGFpZ24lM2Q0ODI3ODM0MTUlMjZ1dG1fdGVybSUzZGVudGVycHJpc2UlMjUyMGN1c3RvbWVyJTI1MjByZWxhdGlvbnNoaXAlMjUyMG1hbmFnZW1lbnQlMjZ1dG1fbWVkaXVtJTNkcHBjJTI2bXNjbGtpZCUzZDA2OWI3YzM5ZmRiNTE4MGQ4NDc2MTY5MmZlM2U5ZmNi&rlid=069b7c39fdb5180d84761692fe3e9fcb",
+        "snippet": "Tweak anything and everything. Endless customization. Build and collaborate from anywhere. Powerful, flexible and data-driven. An easy-to-build CRM to suit your business needs.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "api",
+        "official": false
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Get Webhooks Usage Reports | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/webhooks-actions-usage.html",
+        "snippet": "Retrieve detailed reports on how webhooks actions are being used in Zoho CRM automations. Use parameters like group_by, type, from, and to to analyze usage trends by date, workflow, etc.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 9,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Create Webhook API | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/create-webhook.html",
+        "snippet": "Webhooks in Zoho CRM allow you to send real-time data from Zoho CRM to external applications or services when specific events occur such as Record creation, update, or deletion.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 2,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "APIs and References | Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/api-references.html",
+        "snippet": "Get Webhooks Actions Usage Report - Retrieve usage statistics for Webhook actions executed in Zoho CRM over the last seven days. Get Associated Modules for Webhook Actions - Retrieve the list of modules that are associated with Webhook actions in the current CRM account.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 1,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Get Webhook API | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/get-webhooks.html",
+        "snippet": "Learn how to retrieve a specific webhook or all available webhooks in your Zoho CRM.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -1,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Update Webhook API | Zoho CRM API | V8",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/update-webhook.html",
+        "snippet": "Specify the endpoint URL where Zoho CRM must send the webhook data. This is the external address that will receive the webhook request when triggered. http_methodstring, mandatory Specify the HTTP method that must be used to send the webhook request. The support for Headers, Body, and URL Parameters varies based on the HTTP method used.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -4,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM V8 APIs",
+        "url": "https://www.zoho.com/crm/developer/docs/api/v8/",
+        "snippet": "Use Zoho CRM's V8 APIs to create custom solutions to your requirements and integrate third-party applications seamlessly with Zoho CRM.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM | Developer Tools and API",
+        "url": "https://www.zoho.com/crm/developer/",
+        "snippet": "Build apps for Zoho CRM, create serverless Deluge functions, and customize your Zoho CRM experience using a collection of developer tools.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Welcome to Zoho CRM's Documentation",
+        "url": "https://www.zoho.com/crm/help/",
+        "snippet": "Refer to the variety of documentations for Zoho CRM to learn, understand, and master the product.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "webhooks",
+        "official": false
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Zoho CRM MCP - An Overview | Developer Tools",
+        "url": "https://www.zoho.com/crm/developer/docs/mcp/overview.html",
+        "snippet": "Zoho CRM MCP servers connect your AI tools to Zoho CRM using the Model Context Protocol (MCP). They expose CRM capabilities as tools that your AI agent can invoke during a conversation.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 24,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM MCP - VS Code Setup Guide | Developer Tools",
+        "url": "https://www.zoho.com/crm/developer/docs/mcp/setup/vscode.html",
+        "snippet": "Configure Zoho CRM MCP servers in VS Code with automatic one-click installation or manual setup to interact with your CRM using natural language.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 21,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM MCP - FAQs | Developer Tools",
+        "url": "https://www.zoho.com/crm/developer/docs/mcp/faqs.html",
+        "snippet": "Get answers to frequently asked questions about connecting AI tools to Zoho CRM via MCP servers.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 21,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "Zoho CRM MCP - Cursor Setup Guide | Developer Tools",
+        "url": "https://www.zoho.com/crm/developer/docs/mcp/setup/cursor.html",
+        "snippet": "Automatic Configuration Cursor supports one-click setup for Zoho CRM MCP servers. Login to your Zoho CRM and go to Setup > Developer Hub > MCP for AI Agents. Select the required MCP server from the list and click Cursor as the AI tool. Click the Install MCP Server in Cursor button. This will open Cursor settings page with the selected server ...",
+        "source_type": "THIRD_PARTY",
+        "source_score": 21,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "MCP for Zoho CRM: AI Agent Servers for Secure CRM Access",
+        "url": "https://www.zoho.com/crm/developer/mcp.html",
+        "snippet": "Connect your AI agent to Zoho CRM through composable MCP servers. Analyse data, manage records, automate workflows, and more, all securely from your preferred agent platform.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 6,
+        "field": "mcp",
+        "official": false
+      }
+    ]
+  }
+}

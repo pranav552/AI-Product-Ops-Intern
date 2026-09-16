@@ -1,0 +1,15 @@
+{
+  "app_name": "Salesforce",
+  "repairs": [
+    "authentication: downgraded unsupported method API_KEY to UNKNOWN",
+    "authentication: downgraded unsupported method OAUTH2 to UNKNOWN",
+    "authentication: downgraded unsupported method BEARER_TOKEN to UNKNOWN",
+    "authentication: downgraded unsupported method BASIC_AUTH to UNKNOWN",
+    "authentication: downgraded unsupported method PERSONAL_ACCESS_TOKEN to UNKNOWN",
+    "access_model: dropped evidence with unknown/invented evidence_id: aut0",
+    "access_model: dropped evidence with unknown/invented evidence_id: aut1",
+    "access_model: downgraded unsupported classification SELF_SERVE to UNKNOWN",
+    "api: downgraded unsupported style REST to UNKNOWN",
+    "api.webhooks: downgraded unsupported YES to UNKNOWN"
+  ]
+}

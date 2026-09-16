@@ -1,0 +1,414 @@
+{
+  "app_name": "Pipedrive",
+  "official_domain": "pipedrive.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Best CRM Products From Pipedrive",
+        "url": "https://www.pipedrive.com/en/products",
+        "snippet": "Pipedrive's features and products We've developed Pipedrive's customer relationship management (CRM) products and features around activity-based selling. We believe that in the sales and marketing lifecycle, you can't control results, but you can control the actions that close deals. Our products include:",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "How-to videos: a pretty good overview of PipedriveKnowledge Base | PipedriveCRM Training Courses and Tutorials | Pipedrive AcademyGetting started with Pipedrive - CRM Training Courses and ...What is Pipedrive CRM | Why Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/how-to-videos-a-pretty-good-overview-of-pipedrive",
+        "snippet": "See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com See full list on support.pipedrive.com Getting started Set up and add data to your Pipedrive account to quickly get started. Improve your CRM skills with our short and concise training videos and learn how to become an expert Pipedrive user to maximise your sales and grow your business. Pipedrive is an extremely customizable piece of crm software. This module will show you how to set up a Pipedrive account for you and your team members and use our Insights feature to create detailed performance reports. Pipedrive is an easy-to-use, effective CRM platform designed to help grow your business from day one. Our visual, kanban-style sales pipeline lets you see all your activities at a glance, so you can spend more time winning deals.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Sales Software | Sales Platform & Hub | Pipedrive",
+        "url": "https://www.pipedrive.com/en/products/sales",
+        "snippet": "Find out how Pipedrive sales software can help your business grow. Pipedrive's all-in-one CRM sales hub contains powerful features to monitor deals and track sales.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Sales CRM & Pipeline Management Software | Pipedrive",
+        "url": "https://www.pipedrive.com/",
+        "snippet": "Pipedrive's CRM sales pipeline makes customer relationship management a breeze by allowing you to track leads, spot opportunities, measure key activities, streamline sales workflows and focus on sales success.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "What is Pipedrive CRM | Why Pipedrive",
+        "url": "https://www.pipedrive.com/en/what-is-pipedrive-crm",
+        "snippet": "What is Pipedrive? Pipedrive is a powerful sales CRM (customer relationship management) software that makes winning deals easy. Like other CRM tools, Pipedrive CRM lets sales teams store customer data, track sales activities and manage relationships throughout the sales cycle.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "CRM Features | Pipedrive",
+        "url": "https://www.pipedrive.com/en/crm/features",
+        "snippet": "Learn how to leverage all the features Pipedrive has available so you spend less time fighting with your tools and more time on what's important.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Knowledge Base | Pipedrive",
+        "url": "https://support.pipedrive.com/en",
+        "snippet": "Getting started Set up and add data to your Pipedrive account to quickly get started.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "CRM Training Courses and Tutorials | Pipedrive Academy",
+        "url": "https://learn.pipedrive.com/",
+        "snippet": "Improve your CRM skills with our short and concise training videos and learn how to become an expert Pipedrive user to maximise your sales and grow your business.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "Pipedrive API v1 Dev References (Oauth) - Learn - Test - Try Now",
+        "url": "https://developers.pipedrive.com/docs/api/v1/Oauth",
+        "snippet": "Using OAuth 2.0 is necessary for developing apps that are available in the Pipedrive Marketplace. Authorization via OAuth 2.0 is a well-known and stable way to get fine-grained access to an API. To retrieve OAuth2 tokens you should send requests to the https://oauth.pipedrive.com domain.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 119,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API Reference and Documentation",
+        "url": "https://developers.pipedrive.com/docs/api/v1",
+        "snippet": "This Pipedrive API reference and documentation helps you implement the RESTful Pipedrive API, enabling developers to build integrations with Pipedrive.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API Tutorials: Building Your First API App",
+        "url": "https://developers.pipedrive.com/tutorials/build-your-first-pipedrive-hello-world-app",
+        "snippet": "They use OAuth 2.0 for authorization which lets you access data and perform operations through the Pipedrive RESTful API. You can create a Pipedrive OAuth App from the Developer Hub.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Pipedrive Developers Corner | Pipedrive API sandbox",
+        "url": "https://developers.pipedrive.com/",
+        "snippet": "Pipedrive is an amazing tool! Their developer API, well-documented API reference page and easy use of webhooks allow developers to easily build solutions in the Pipedrive Developer Platform.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "CRM API | REST API integration | Pipedrive",
+        "url": "https://www.pipedrive.com/en/features/crm-api",
+        "snippet": "Pipedrive's free CRM API integration lets you connect any software, system, or app in your technology stack. Customize your experience for more efficiency.",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "OAuth authorization - Pipedrive Developer Documentation",
+        "url": "https://pipedrive.readme.io/docs/marketplace-oauth-authorization",
+        "snippet": "Using OAuth 2.0 is necessary for developing apps that are available in the Pipedrive Marketplace. Authorization via OAuth 2.0 is a well-known and stable way to get fine-grained access to an API.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 1,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "OAuth 2.0 overview - Pipedrive Developer Documentation",
+        "url": "https://pipedrive.readme.io/docs/marketplace-oauth-api",
+        "snippet": "The recommended authorization protocol for all public apps available in the Pipedrive Marketplace is the industry-standard OAuth 2.0 protocol. OAuth 2.0 allows apps granular access to users’ data and provides a secure and easy-to-use connection between the app and Pipedrive.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -1,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "How to create Oauth2 credentials for Pipedrive | Composio",
+        "url": "https://composio.dev/auth/pipedrive",
+        "snippet": "In this guide, I will share the process for customizing the auth config for Pipedrive. So, let's begin. In this section, we’ll walk through creating an application and setting up Pipedrive to obtain the Client ID and Client Secret.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -30,
+        "field": "authentication",
+        "official": false
+      }
+    ],
+    "access": [
+      {
+        "title": "Pipedrive API Reference and Documentation",
+        "url": "https://developers.pipedrive.com/docs/api/v1",
+        "snippet": "This Pipedrive API reference and documentation helps you implement the RESTful Pipedrive API, enabling developers to build integrations with Pipedrive.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API v1 Dev References (Oauth) - Learn - Test - Try Now",
+        "url": "https://developers.pipedrive.com/docs/api/v1/Oauth",
+        "snippet": "Using OAuth 2.0 is necessary for developing apps that are available in the Pipedrive Marketplace. Authorization via OAuth 2.0 is a well-known and stable way to get fine-grained access to an API. To retrieve OAuth2 tokens you should send requests to the https://oauth.pipedrive.com domain.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "CRM Pricing Plans | Affordable CRM Software Costs | Pipedrive",
+        "url": "https://www.pipedrive.com/en/pricing",
+        "snippet": "To find the best CRM software prices, research and compare CRM providers based on their pricing plans and features. Pipedrive offers different solutions at price points to match users’ requirements.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "How does pricing work in Pipedrive? - Knowledge Base | Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/how-does-pricing-work-in-pipedrive",
+        "snippet": "Sep 2, 2026 · Discover how Pipedrive pricing works. Learn about plans, features and cost structures to find the best fit for your business needs and budget.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "CRM API | REST API integration | Pipedrive",
+        "url": "https://www.pipedrive.com/en/features/crm-api",
+        "snippet": "Every Pipedrive plan comes with an API token that gives you access to our RESTful API for free. This means you can extend and customize your Pipedrive experience to streamline your business processes and improve your CRM software’s functionality and efficiency.",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "How can I find my personal API key? - Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/how-can-i-find-my-personal-api-key",
+        "snippet": "Sep 2, 2026 · Find out how to locate your personal API key in Pipedrive. Enable API access, integrate external tools and manage secure authentication settings.",
+        "source_type": "OFFICIAL",
+        "source_score": 71,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Pipedrive Developers Corner | Pipedrive API sandbox",
+        "url": "https://developers.pipedrive.com/",
+        "snippet": "Sign up for a Sandbox Account and build integrations with our API and developer platform to reach over 100,000 companies through the Pipedrive Marketplace.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API v2 overview",
+        "url": "https://pipedrive.readme.io/docs/pipedrive-api-v2",
+        "snippet": "We have compiled an in-depth migration guide for migrating from v1 to v2 APIs and the endpoints are also documented on our API Reference page. As always, you can reach out to us through our Developers' Community for further questions.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "access",
+        "official": false
+      }
+    ],
+    "api": [
+      {
+        "title": "Pipedrive API Reference and Documentation",
+        "url": "https://developers.pipedrive.com/docs/api/v1",
+        "snippet": "This Pipedrive API reference and documentation helps you implement the RESTful Pipedrive API, enabling developers to build integrations with Pipedrive.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 119,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API v1–v2 Dev References (Persons API) - Learn ...",
+        "url": "https://developers.pipedrive.com/docs/api/v1/Persons",
+        "snippet": "The Persons API holds contacts associated with an organization. Find: URL Endpoint Parameters, Responses, GET, POST, PATCH, DELETE Requests and More.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 106,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API v1–v2 Dev References (Pipelines) - Learn - Test ...",
+        "url": "https://developers.pipedrive.com/docs/api/v1/Pipelines",
+        "snippet": "A Pipeline CRM API is essentially an ordered collection of stages. Find details on: GET, POST, PATCH, DELETE Requests, Path/Body Params, Responses and More.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API Documentation",
+        "url": "https://developers.pipedrive.com/docs/api/v1/ProjectFields",
+        "snippet": "Required fields configuration for marking the field as mandatory when interacted with in the Pipedrive web UI.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "CRM API | REST API integration | Pipedrive",
+        "url": "https://www.pipedrive.com/en/features/crm-api",
+        "snippet": "With Pipedrive’s RESTful API and developer resources, you can connect and integrate any app, software, or system in your tech stack with Pipedrive. You, or your IT team, can also build custom CRM integrations to share and import data to empower your business processes.",
+        "source_type": "OFFICIAL",
+        "source_score": 84,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Pipedrive API Developer Tutorials | Mastering Implementation",
+        "url": "https://developers.pipedrive.com/tutorials",
+        "snippet": "REST API Learn how to add different types of files to Pipedrive and associate them with Deals, Leads, Persons, Organizations, Activities, or Products. Follow our step-by-step tutorial to add a text file and connect it to a Person, or try using Pipedrive's API Reference to add files via the Files endpoint.",
+        "source_type": "OFFICIAL",
+        "source_score": 79,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Pipedrive Developers Corner | Pipedrive API sandbox",
+        "url": "https://developers.pipedrive.com/",
+        "snippet": "Their developer API, well-documented API reference page and easy use of webhooks allow developers to easily build solutions in the Pipedrive Developer Platform.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "About the Pipedrive API",
+        "url": "https://pipedrive.readme.io/docs/core-api-concepts-about-pipedrive-api",
+        "snippet": "Our Pipedrive RESTful API Reference can be accessed via https://developers.pipedrive.com/docs/api/v1/, where you will find a list of endpoints and their descriptions.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -8,
+        "field": "api",
+        "official": false
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Pipedrive API v1 Dev References (Webhooks) - See Webhook API ...",
+        "url": "https://developers.pipedrive.com/docs/api/v1/Webhooks",
+        "snippet": "As each webhook event is checked against a user's permissions, the webhook will only be sent if the user has access to the specified object (s). If you want to receive notifications for all events, please use a top-level admin user’s user_id.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 129,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks - Knowledge Base | Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/webhooks",
+        "snippet": "Sep 2, 2026 · Note: Check out our official guide for webhooks for more information about how to set up webhooks in Pipedrive, or our list of webhooks to see what options we offer.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Guide for Webhooks - Pipedrive Developer DocumentationWebhooks - Knowledge Base | PipedriveGuide for Webhooks v2 - Pipedrive Developer DocumentationGuide to Pipedrive Webhooks: Features and Best PracticesAutomations: webhook requests - Knowledge Base | PipedrivePipedrive Webhooks API: Subscribe, Verify, and Handle Events",
+        "url": "https://pipedrive.readme.io/docs/guide-for-webhooks",
+        "snippet": "Webhooks allow you to get programmatic notifications from Pipedrive about changes to your data as they happen. If you're new to webhooks, read this guideto learn more. Rather than requiring you to pull information via our API, webhooks will push information to your endpoint. When one of those events is triggered (for example a new deal is added), P... See full list on pipedrive.readme.io NB: For changes specific to the user object, the change object should be accessed as current and previous. See the explanations for the webhook meta block's parameters here. See full list on pipedrive.readme.io You can determine the number of delivery attempts according to the value of the retry field in the payload (see the format above). Learn about the retry logic below. See full list on pipedrive.readme.io In the current and previous blocks, the standard data of each object is placed in a way which conforms to our API Referencewith the following rules: See full list on pipedrive.readme.io It's possible to set up notifications for events like added.organization, \\*.deal, updated.\\*, deleted.person. When setting up notifications, note that event objects are not combinations but refer back to themselves. For example, if you want to have a webhook show when a deal changes stages, you should choose deal as the event object, not stage, an... See full list on pipedrive.readme.io You can see the status of the last attempt made by your webhook(s) in the webhook dashboard. The webhooks dashboard is available under Tools and integrations > Webhooksinside Pipedrive. There are three status code ranges or messages that are expected: 1. A 2XXstatus code range shows a successful delivery of your webhook request. 2. A 500status code... See full list on pipedrive.readme.io Webhooks retry policy is as follows: 1. In case the original notification sending attempt fails (due to receiving a non-2XX response code or exceeding timeout of 10 seconds), we will try 3 more times: after 3, 30 and 150 seconds. If it still fails for each of those attempts, it is counted as one non-successful delivery. 2. If there are no successfu... See full list on pipedrive.readme.io The webhooks policy is applied to both general and App-Specificwebhooks. Pipedrive has a Ban System for webhooks, which means that every time the original notification sending attempt fails on the first try (due to receiving a non-2xxresponse code or exceeding a timeout of 10 seconds) the ban counter will increase by one. When the ban counter reach... See full list on pipedrive.readme.io Sep 2, 2026 · Note: Check out our official guide for webhooks for more information about how to set up webhooks in Pipedrive, or our list of webhooks to see what options we offer. Rather than requiring you to pull information via our API, webhooks will push information to your endpoint. When one of those events is triggered (for example, a new deal is added), Pipedrive will send this notification as an HTTP POST request, with a JSON body, to the endpoint (s) you specify. Jul 23, 2026 · In this guide, you will learn about Pipedrive webhooks, their action.entity events, the HTTP Basic Auth trust model (no signatures), retry behavior, and the best practices for production. Sep 2, 2026 · The webhook action in Automations allows you to connect Pipedrive with external tools and apps by sending information to specific endpoints. This feature enhances your sales processes by allowing conditional event-triggered information linking between Pipedrive and the tool of your preference. Feb 11, 2026 · Building on the flaws we just identified, the correct way to think about Pipedrive webhooks is as an asynchronous postal service. When a deal is updated, Pipedrive (the post office) sends a letter (the webhook payload) to your address (your endpoint URL).",
+        "source_type": "THIRD_PARTY",
+        "source_score": 14,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Guide for Webhooks v2 - Pipedrive Developer Documentation",
+        "url": "https://pipedrive.readme.io/docs/guide-for-webhooks-v2",
+        "snippet": "Rather than requiring you to pull information via our API, webhooks will push information to your endpoint. When one of those events is triggered (for example, a new deal is added), Pipedrive will send this notification as an HTTP POST request, with a JSON body, to the endpoint (s) you specify.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 4,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Guide to Pipedrive Webhooks: Features and Best Practices",
+        "url": "https://hookdeck.com/webhooks/platforms/guide-to-pipedrive-webhooks-features-and-best-practices",
+        "snippet": "Jul 23, 2026 · In this guide, you will learn about Pipedrive webhooks, their action.entity events, the HTTP Basic Auth trust model (no signatures), retry behavior, and the best practices for production.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -11,
+        "field": "webhooks",
+        "official": false
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Native Model Context Protocol (MCP) from Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/mcp",
+        "snippet": "A model context protocol, or MCP, is an open standard that allows large language models (LLMs) and AI assistants to securely interact with structured data and external services. MCPs provide a standardized way for AI assistants to securely access business data, tools and APIs. This allows AI applications to retrieve information, update records and automate workflows across connected systems ...",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Pipedrive MCP Server | Connect Claude & ChatGPT to Your CRM",
+        "url": "https://www.pipedrive.com/en/features/mcp-server",
+        "snippet": "The Model Context Protocol (MCP) is an open standard that lets AI assistants securely connect to external tools and data sources. With Pipedrive MCP, your AI assistant can securely access and act on your CRM data using natural language.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Pipedrive launches native MCP server, bringing CRM workflows directly ...",
+        "url": "https://www.pipedrive.com/en/newsroom/pipedrive-launches-native-mcp-server-bringing-crm-workflows-directly-into-ai-assistants",
+        "snippet": "New York, June 30, 2026 - Pipedrive, the easy and intelligent CRM for small and medium-sized businesses, today announced the launch of its native Model Context Protocol (MCP) server, enabling customers to securely connect Pipedrive with AI assistants such as ChatGPT, Claude and other MCP-compatible tools. MCP is an open standard that enables AI assistants to securely connect to external ...",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Pipedrive MCP for ChatGPT - Knowledge Base | Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/mcp-chatgpt",
+        "snippet": "Sep 6, 2026 · Set up the Pipedrive MCP server in ChatGPT to securely retrieve CRM data, perform actions and automate workflows with AI.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Pipedrive MCP Server - Feedback - Pipedrive Developers' Community",
+        "url": "https://devcommunity.pipedrive.com/t/pipedrive-mcp-server/20195",
+        "snippet": "Mar 26, 2026 · This is a stdio MCP server designed for Claude Desktop / Claude Code / Codex CLI. It runs as a local Node process on your machine. claude.ai (where you and I are talking right now) only connects to remote MCP servers via URL.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Pipedrive MCP tools - Knowledge Base | Pipedrive",
+        "url": "https://support.pipedrive.com/en/article/mcp-tools",
+        "snippet": "In MCP, tools are the actions that an AI assistant can perform in Pipedrive. Each tool is designed for a specific task, such as creating a deal, retrieving a contact's details or updating an activity. When an AI assistant is connected to Pipedrive through MCP, it can use these tools to access information and perform actions on your behalf, based on the permissions you have granted. Tool names ...",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Pipedrive MCP Connector is now available in Claude's official ...",
+        "url": "https://www.pipedrive.com/en/newsroom/pipedrive-mcp-connector-is-now-available-in-claudes-official-marketplace",
+        "snippet": "New York, August 18, 2026 - Pipedrive, the easy and intelligent CRM for small and medium-sized businesses, announced today that its Model Context Protocol (MCP) Connector is now available directly in Claude's official connector marketplace.",
+        "source_type": "OFFICIAL",
+        "source_score": 66,
+        "field": "mcp",
+        "official": true
+      }
+    ]
+  }
+}

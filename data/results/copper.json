@@ -1,0 +1,42 @@
+{
+  "app_name": "Copper Developer API",
+  "category": "CRM API",
+  "description": {
+    "value": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "authentication": {
+    "methods": [
+      "UNKNOWN"
+    ],
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "access_model": {
+    "classification": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "api": {
+    "styles": [
+      "UNKNOWN"
+    ],
+    "breadth": "UNKNOWN",
+    "resources": [],
+    "actions": [],
+    "webhooks": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "mcp": {
+    "classification": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "buildability": {
+    "verdict": "BLOCKED",
+    "blockers": [],
+    "reasoning": "UNKNOWN"
+  }
+}

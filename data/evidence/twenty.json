@@ -1,0 +1,423 @@
+{
+  "app_name": "Twenty",
+  "official_domain": "twenty.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Why Twenty - Twenty Documentation",
+        "url": "https://docs.twenty.com/getting-started/introduction",
+        "snippet": "Why Twenty You've been choosing between software that's easy to start but impossible to change, and software that's flexible but takes months to set up. Twenty is the third option: a production-ready CRM you can reshape as you go. ... Twenty is a platform you can build on, not a product you configure.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 91,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "What is Twenty - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/getting-started/capabilities/what-is-twenty",
+        "snippet": "At first, Twenty looks like most CRMs you already know: you can track deals, organize contacts, manage tasks and notes. But what sets it apart is our approach to extensibility. We are building an open platform that provides the building blocks for you to solve your unique business problems.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 88,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Twenty CRM Features — Modern Open Source CRM Platform",
+        "url": "https://twenty.com/product",
+        "snippet": "Pipelines, custom objects, AI assistants, and a native API on top of Postgres. Twenty is the open source CRM with the modern UX teams actually want to use.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Why Twenty — The Open Source CRM Built to Be Customised",
+        "url": "https://twenty.com/why-twenty",
+        "snippet": "Packaged CRMs make every company look the same. Twenty is the open source CRM teams shape around their workflow, with a modern UI and a developer-first platform.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Twenty Releases — What's New in the Open Source CRM",
+        "url": "https://twenty.com/releases",
+        "snippet": "Every new release of Twenty, the #1 Open Source CRM, with changelogs, demos, and the highlights teams care about most.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Twenty‑CRM‑Funktionen - Moderne Open‑Source‑CRM‑Plattform",
+        "url": "https://twenty.com/de/product",
+        "snippet": "Pipelines, benutzerdefinierte Objekte, KI‑Assistenten und eine native API auf Postgres. Twenty ist das Open‑Source‑CRM mit der modernen UX, die Teams tatsächlich nutzen wollen.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Twenty | #1 Open Source CRM",
+        "url": "https://twenty.com/",
+        "snippet": "Build your Enterprise CRM at AI Speed Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "OAuth - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/oauth",
+        "snippet": "Twenty implements OAuth 2.0 with authorization code + PKCE for user-facing apps and client credentials for server-to-server access. Clients are registered dynamically via RFC 7591 — no manual setup in a dashboard.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 111,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "APIs - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/api",
+        "snippet": "The API is generated from the schema, so endpoints use your object and field names directly — no opaque IDs. Your workspace-specific API documentation is available under Settings → API & Webhooks after creating an API key.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 106,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Connections - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/apps/logic/connections",
+        "snippet": "Today only OAuth 2.0 is supported. Future credential types (personal access tokens, API keys, basic auth) will plug into the same surface — apps already using defineConnectionProvider ( { type: 'oauth', ... }) won’t need to migrate.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 104,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Developers - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/introduction",
+        "snippet": "Apps Extend Twenty with custom objects, server-side logic, UI components, and AI agents — all as TypeScript packages.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 95,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "MCP Server - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/ai/capabilities/mcp",
+        "snippet": "Go to Settings → MCP & APIs → MCP in Twenty. Choose your authentication method (OAuth or API Key), copy the JSON snippet (it will already use your workspace URL), and paste it into your MCP client’s config file.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 94,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Twenty | #1 Open Source CRM",
+        "url": "https://twenty.com/",
+        "snippet": "It is just such a nicer experience than dealing with a Salesforce or a HubSpot. My mission has been to get every tool API-accessible, so everything talks to each other. Twenty made that possible in a way older CRM platforms simply do not.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "authentication",
+        "official": true
+      }
+    ],
+    "access": [
+      {
+        "title": "Pricing Plans - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/billing/capabilities/pricing-plans",
+        "snippet": "Host Twenty on your own infrastructure at no cost: All Pro features included Community support via Discord Full control over your data",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 105,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "APIs - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/api",
+        "snippet": "There is no static API reference for Twenty. Each workspace has its own schema — when you add a custom object (say Invoice), it immediately gets REST and GraphQL endpoints identical to built-in objects like Company or Person.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "APIs - Twenty Documentation",
+        "url": "https://docs.twenty.com/l/de/developers/extend/api",
+        "snippet": "Schema-pro-Mandant-APIs Es gibt keine statische API-Referenz für Twenty. Jeder Arbeitsbereich hat sein eigenes Schema — wenn Sie ein benutzerdefiniertes Objekt hinzufügen (z. B. Invoice), erhält es sofort REST- und GraphQL-Endpunkte, die mit den integrierten Objekten wie Company oder Person identisch sind. Die API wird aus dem Schema generiert, daher verwenden die Endpunkte Ihre Objekt ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 103,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Developers - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/introduction",
+        "snippet": "Apps Extend Twenty with custom objects, server-side logic, UI components, and AI agents — all as TypeScript packages.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 95,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "OAuth - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/oauth",
+        "snippet": "Twenty implements OAuth 2.0 with authorization code + PKCE for user-facing apps and client credentials for server-to-server access. Clients are registered dynamically via RFC 7591 — no manual setup in a dashboard.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 95,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Extend - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/extend",
+        "snippet": "APIs: Query and modify your CRM data programmatically using REST or GraphQL Webhooks: Receive real-time notifications when events occur in Twenty Apps: Build custom applications that extend Twenty’s capabilities",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 95,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Import Data via API - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/data-migration/how-tos/import-data-via-api",
+        "snippet": "Twenty provides both GraphQL and REST APIs for programmatic data import. Use the API when CSV import isn't practical for your data volume or when you need automated, recurring imports.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 93,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Twenty CRM Pricing — Plans from $9 per User per Month",
+        "url": "https://twenty.com/pricing",
+        "snippet": "What does Twenty cost? Cloud Pro is $9/user/month (yearly). Organization is $19/user/month and unlocks SSO and row-level permissions for teams that need finer access control.",
+        "source_type": "OFFICIAL",
+        "source_score": 80,
+        "field": "access",
+        "official": true
+      }
+    ],
+    "api": [
+      {
+        "title": "APIs - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/api",
+        "snippet": "There is no static API reference for Twenty. Each workspace has its own schema — when you add a custom object (say Invoice), it immediately gets REST and GraphQL endpoints identical to built-in objects like Company or Person.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 115,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "API - Twenty Documentation",
+        "url": "https://docs.twenty.com/l/cs/developers/extend/api",
+        "snippet": "Pro dvacet není žádný statický API odkaz. Každý pracovní prostor má své vlastní schéma — když přidáte vlastní objekt (řekněme Invoice), okamžitě získá REST a GraphQL koncové body shodné s vestavěnými objekty, jako je Company nebo Person.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 109,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "docs.twenty.com",
+        "url": "https://docs.twenty.com/api-reference/openapi.json",
+        "snippet": "\"description\": \"A sample API that uses a plant store as an example to demonstrate features in the OpenAPI specification\", \"license\": { \"name\": \"MIT\" }, \"version\": \"1.0.0\" }, \"servers\": [ { \"url\": \"http://sandbox.mintlify.com\" } ], \"security\": [ { \"bearerAuth\": [] } ], \"paths\": { \"/plants\": {",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 105,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Developers - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/introduction",
+        "snippet": "REST and GraphQL APIs, webhooks, and OAuth. Run Twenty on your own infrastructure. Set up the monorepo locally and submit PRs. Build apps, use the API, self-host, or contribute to the codebase.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 101,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Import Data via API - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/data-migration/how-tos/import-data-via-api",
+        "snippet": "Twenty provides both GraphQL and REST APIs for programmatic data import. Use the API when CSV import isn’t practical for your data volume or when you need automated, recurring imports.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 99,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Overview - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/apps/logic/overview",
+        "snippet": "Overview Server-side TypeScript that runs inside Twenty — triggered by HTTP routes, cron schedules, database events, AI tools, or workflow actions.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 95,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Twenty | #1 Open Source CRM",
+        "url": "https://twenty.com/",
+        "snippet": "Scaffold an extension with `npx create-twenty-app` and ship custom objects, server-side logic functions, React components that render inside Twenty’s UI, AI skills and agents, views, and navigation, all in TypeScript, deployable to any workspace.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "REST API Endpoints | twentyhq/twenty | DeepWiki",
+        "url": "https://deepwiki.com/twentyhq/twenty/9.2-rest-api-endpoints",
+        "snippet": "Aug 24, 2026 · This page documents the REST API endpoints for metadata-driven operations, file serving, API documentation, and health checks within the Twenty platform, illustrating key flow paths and linking to core implementation.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -6,
+        "field": "api",
+        "official": false
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Webhooks - Twenty Documentation",
+        "url": "https://docs.twenty.com/l/fr/developers/extend/capabilities/webhooks",
+        "snippet": "Webhooks push data to your systems in real-time when events occur in Twenty — no polling required. Use them to keep external systems in sync, trigger automations, or send alerts.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 124,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/webhooks",
+        "snippet": "Webhooks Get notified when records change — HTTP POST to your endpoint on every create, update, or delete. Twenty sends an HTTP POST to your URL whenever a record is created, updated, or deleted. All object types are covered, including custom objects.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 121,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks - Twenty Documentation",
+        "url": "https://docs.twenty.com/l/it/developers/extend/webhooks",
+        "snippet": "Webhooks Ricevi una notifica quando i record cambiano — HTTP POST al tuo endpoint a ogni creazione, aggiornamento o eliminazione. Twenty invia un HTTP POST al tuo URL ogni volta che un record viene creato, aggiornato o eliminato. Tutti i tipi di oggetto sono supportati, inclusi gli oggetti personalizzati.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 121,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "APIs - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/api",
+        "snippet": "Your workspace-specific API documentation is available under Settings → API & Webhooks after creating an API key. It includes an interactive playground where you can execute real calls against your data.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 109,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Extend - Twenty Documentation",
+        "url": "https://docs.twenty.com/developers/extend/extend",
+        "snippet": "Twenty is designed to be extensible. Use our APIs, webhooks, and app framework to integrate with your existing tools and build custom functionality.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 101,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Set Up a Webhook Trigger - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/workflows/how-tos/connect-to-other-tools/set-up-a-webhook-trigger",
+        "snippet": "Webhook triggers allow external services to start your workflows by sending data to a unique URL. Use them to connect forms, third-party apps, and custom integrations.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 98,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Events Webhooks - API - Zoom Developer Docs",
+        "url": "https://developers.zoom.us/docs/api/events/events/",
+        "snippet": "Explore Zoom's Events Webhooks API reference to integrate event notifications for Meetings and Webinars into your applications seamlessly.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 32,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Webhooks - Twenty — ContextQMD",
+        "url": "https://contextqmd.com/libraries/twenty/versions/1.23.5/pages/packages/twenty-docs/developers/extend/capabilities/webhooks",
+        "snippet": "Webhooks push data to your systems in real-time when events occur in Twenty — no polling required. Use them to keep external systems in sync, trigger automations, or send alerts.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -1,
+        "field": "webhooks",
+        "official": false
+      }
+    ],
+    "mcp": [
+      {
+        "title": "MCP Server - Twenty Documentation",
+        "url": "https://docs.twenty.com/user-guide/ai/capabilities/mcp",
+        "snippet": "Twenty exposes an MCP server so that AI assistants — Claude Desktop, Claude Code, Cursor, ChatGPT, and others — can read and write your CRM data through natural language.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 111,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Twenty | #1 Open Source CRM",
+        "url": "https://twenty.com/",
+        "snippet": "Does Twenty work with Claude, ChatGPT, and Cursor? Yes. Every Cloud workspace ships with a native MCP server. Connect your AI assistant via OAuth and it can read and write your CRM data in natural language.",
+        "source_type": "OFFICIAL",
+        "source_score": 66,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Twenty CRM Features — Modern Open Source CRM Platform",
+        "url": "https://twenty.com/product",
+        "snippet": "Does Twenty work with Claude, ChatGPT, and Cursor? Yes. Every Cloud workspace ships with a native MCP server. Connect your AI assistant via OAuth and it can read and write your CRM data in natural language.",
+        "source_type": "OFFICIAL",
+        "source_score": 66,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Twenty | #1 Open‑Source‑CRM",
+        "url": "https://twenty.com/de",
+        "snippet": "Jeder Cloud‑Workspace wird mit einem nativen MCP‑Server ausgeliefert. Verbinden Sie Ihren KI‑Assistenten über OAuth, und er kann Ihre CRM‑Daten in natürlicher Sprache lesen und schreiben.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Twenty Releases — What's New in the Open Source CRM",
+        "url": "https://twenty.com/releases",
+        "snippet": "1 day ago · Every new release of Twenty, the #1 Open Source CRM, with changelogs, demos, and the highlights teams care about most.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "What is the Model Context Protocol (MCP)?",
+        "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+        "snippet": "Jul 28, 2026 · MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.",
+        "source_type": "MCP_REGISTRY",
+        "source_score": 41,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "MCP Docs – Model Context Protocol （MCP）",
+        "url": "https://modelcontextprotocol.info/docs/",
+        "snippet": "Welcome to the Model Context Protocol documentation! MCP is a standardized protocol designed to enhance the interaction between Large Language Models (LLMs) and applications by providing structured context management.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 31,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "Architecture overview - Model Context Protocol",
+        "url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+        "snippet": "Jul 28, 2026 · This overview of the Model Context Protocol (MCP) discusses its scope and core concepts, and provides an example demonstrating each core concept. Because MCP SDKs abstract away many concerns, most developers will likely find the data layer protocol section to be the most useful.",
+        "source_type": "MCP_REGISTRY",
+        "source_score": 31,
+        "field": "mcp",
+        "official": false
+      }
+    ]
+  }
+}

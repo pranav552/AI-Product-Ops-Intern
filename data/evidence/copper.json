@@ -1,0 +1,441 @@
+{
+  "app_name": "Copper",
+  "official_domain": "copper.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Best Enterprise CRM Software - Copper",
+        "url": "https://www.copper.com/enterprise-crm",
+        "snippet": "Copper eliminates manual data entry, automates every step of your sales process and delivers deal alerts, recommendations right when you need it. Meet the first CRM that drives productivity across the entire organization.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Copper on Copper: an inside look at how we use our own CRM ...",
+        "url": "https://www.copper.com/resources/copper-on-copper-an-inside-look-at-how-we-use-our-own-crm-software",
+        "snippet": "Yep, we walk the walk here at Copper. The CRM software we use is, in fact, Copper. In our latest Coffee with Copper webinar, we delved into how our internal teams use the Copper platform for our own operations, and we’re giving you a peek behind the curtains too.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Copper - CRM Software Solutions Company for Service ...",
+        "url": "https://www.copper.com/",
+        "snippet": "Win clients for life with Copper CRM software solutions. Give us a try and see how we can help your business build stronger customer relationships.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "About Copper CRM | Copper CRM",
+        "url": "https://www.copper.com/about",
+        "snippet": "We built Copper for everyone else: the agencies, the consultants, the account managers whose whole job runs on relationships. We reimagined what CRM software could look like inside the tools you already use every day — starting with Google Workspace.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Copper Plans: Feature Comparison | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/9623758-copper-plans-feature-comparison",
+        "snippet": "Aug 27, 2025 · Copper offers a variety of plans to suit your budget and workflow needs. Use the guide below to identify the features unlocked at each tier. Click into the feature to find detailed information and tips on how to get the most out of them. Click here for pricing and quick comparison.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "February 14, 2025 - From Copper, with love | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/10561680-february-14-2025-from-copper-with-love",
+        "snippet": "Feb 14, 2025 · Android updates: Google Voice calling now available directly from Copper! New animations to make navigation more fluid and engaging.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Demo | Copper CRM",
+        "url": "https://www.copper.com/demos",
+        "snippet": "Copper's CRM integration with Google works seamlessly with Gmail, Calendar, Drive and Gemini. Add leads, track conversations, find files and manage workflows without switching tabs.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "Overview - Copper Developer API",
+        "url": "https://developer.copper.com/introduction/authentication.html",
+        "snippet": "Authentication There are two ways to access the Copper Developer API: API keys and OAuth2.0. API Keys are suitable for individual users, while OAuth2.0 is the preferred approach for partner integrations. API Keys The Dev API uses token based authentication. You have to include the token in the header of every request, along with the email address of the user who generated the token. Users can ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 99,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Overview - Copper Developer API",
+        "url": "https://developer.copper.com/introduction/oauth/index.html",
+        "snippet": "Authentication via OAuth2.0 1. Introduction You can now access the Copper Developer API via OAuth2.0. This authentication method is an alternative to Copper's legacy API Keys, and is particularly well-suited for third-party integrations looking to create a seamless and secure link between their users and Copper. OAuth2.0 offers several advantages over the API Key flow: Authentication is open ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 99,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Examples | Copper App SDK",
+        "url": "https://docs.copper.com/copper-sdk/examples",
+        "snippet": "Secure Example This example touches more upon security. The code can be found in examples/secure_iframe. This embedded app will send a POST request with json web token (JWT) first to the iframe url. The embedded app should first get the public key from Copper and use the public key to verify the json web token. Quick Start The secure example uses an express based server side and webpacker ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 85,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Generating an API Key | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823347-generating-an-api-key",
+        "snippet": "API Keys can be used to create, read, update, and delete data in Copper. Only Admin users are able to generate API Keys. To generate an API Key...",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "API Docs and tips | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823462-api-docs-and-tips",
+        "snippet": "The Copper Web API allows you to access and build your own applications that interact with Copper in more complex ways than the integrations we provide out of the box. The API provides a RESTful interface with JSON-formatted responses to use Copper entities.",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Authentication - Copper Developer Portal",
+        "url": "https://developer.copper.co/api-reference/authentication",
+        "snippet": "Authentication to the API is performed via the Authorization header with an API key. Each request requires an API key to authenticate the user and a signature to verify the request’s integrity, ensuring safe and authorized access to our API.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 19,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Getting started - Copper Developer Portal",
+        "url": "https://developer.copper.co/api-reference/getting-started",
+        "snippet": "The Copper platform is equipped with a powerful API to provide integration with your applications. This documentation describes the composition and usage of available API endpoints.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 0,
+        "field": "authentication",
+        "official": false
+      },
+      {
+        "title": "Spot Unauthorized API Access - Enhance Threat Intelligence",
+        "url": "https://www.bing.com/aclick?ld=e8IijKJWeyLotbDojCp2LvaTVUCUzJdEprzv_1ooPg9sonDyhp1MsxG2mogj1hQcU95QYMfmIwedO8Zcl102kk78qoPLJgpcmUIxbSe1mJNdJH9twgvrtzVW641xTro-WNqpvazGc1i0RX6xx_6VAJaMuM4w6FQLpvdOrQBfe7IQxfOE5s0X_iYHQgd0Bka_L3sFhoeg&u=aHR0cHMlM2ElMmYlMmZtb25pdG9yLmx1bmlvLmFpJTJmdjMuMCUyZnRlbXBsYXRlJTNmYWNjaWQlM2QxNjg5NiUyNnVybGRlY29kZSUzZDElMjZrdyUzZHNlY3VyZSUyNTIwYXBpJTI2bXQlM2RwJTI2bnclM2RvJTI2Y3BuJTNkNDI4MzI5MjQwJTI2ZGV2aSUzZGMlMjZkZXZtJTNkJTI2bG9jcCUzZDIzMTYyMCUyNmxvY2klM2QlMjZwbCUzZCUyNmNyJTNkJTI2YWRwJTNkJTI2c2FkdCUzZCUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmRhdGFkb2docS5jb20lMjUyRmRnJTI1MkZzZWN1cml0eSUyNTJGc2VjdXJlLWFwaS1hY2Nlc3MlMjUyRiUyNTNGdXRtX3NvdXJjZSUyNTNEYmluZyUyNTI2dXRtX21lZGl1bSUyNTNEcGFpZC1zZWFyY2glMjUyNnV0bV9jYW1wYWlnbiUyNTNEZGctc2VjdXJpdHktbmEtdW5hdXRob3JpemVkYWNjZXNzJTI1MjZ1dG1fa2V5d29yZCUyNTNEc2VjdXJlJTI1MjUyMGFwaSUyNTI2dXRtX21hdGNodHlwZSUyNTNEcCUyNTI2aWdhYWclMjUzRDEzMTA2MTgyMzA5OTA0OTQlMjUyNmlnYWF0JTI1M0QlMjUyNmlnYWNtJTI1M0Q0MjgzMjkyNDAlMjUyNmlnYWNyJTI1M0QlMjUyNmlnYWt3JTI1M0RzZWN1cmUlMjUyNTIwYXBpJTI1MjZpZ2FtdCUyNTNEcCUyNTI2aWdhbnQlMjUzRG8lMjUyNnV0bV9jYW1wYWlnbmlkJTI1M0Q0MjgzMjkyNDAlMjUyNnV0bV9hZGdyb3VwaWQlMjUzRDEzMTA2MTgyMzA5OTA0OTQlMjZtc2Nsa2lkJTNkMTY4MTY2ZWQxMjc3MWViYjkyMTgwYzQ2MTcyYmZjN2E&rlid=168166ed12771ebb92180c46172bfc7a",
+        "snippet": "Easily Detect Threats Across Your Applications, Network, And Infrastructure With Datadog. Quickly Flag Unauthorized API Access And Other Attacker Techniques. Try It Free.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -40,
+        "field": "authentication",
+        "official": false
+      }
+    ],
+    "access": [
+      {
+        "title": "Reference | Copper App SDK",
+        "url": "https://docs.copper.com/copper-sdk/reference",
+        "snippet": "All of the developer api url is supported. The method and data format for each api end point can be found in the Copper's api documentation. refreshUI () The method refreshUI (target) will refresh the target's UI section. It is primarily used after the above api (url, options) call to update the UI to reflect the data changed in the server ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 97,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Getting started - Copper Developer API",
+        "url": "https://developer.copper.com/",
+        "snippet": "The Copper Web API allows you to access and build your own applications that interact with Copper in more complex ways than the integrations we provide out of the box. The Copper Developer API (\"Dev API\") provides a RESTful interface with JSON-formatted responses to access most Copper resources.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Overview - Copper Developer API",
+        "url": "https://developer.copper.com/introduction/oauth/index.html",
+        "snippet": "Authentication via OAuth2.0 1. Introduction You can now access the Copper Developer API via OAuth2.0. This authentication method is an alternative to Copper's legacy API Keys, and is particularly well-suited for third-party integrations looking to create a seamless and secure link between their users and Copper. OAuth2.0 offers several advantages over the API Key flow: Authentication is open ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Developer resources and API | Copper Help Center",
+        "url": "https://support.copper.com/en/collections/9574908-developer-resources-and-api",
+        "snippet": "All Collections Integrations Developer resources and API Developer resources and API By Success · 5 articles",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Generating an API Key | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823347-generating-an-api-key",
+        "snippet": "All Collections Integrations Developer resources and API Generating an API Key Generating an API Key Generating an API Key Written by Success at Copper March 19, 2025 Copy for LLM",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "API Docs and tips | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823462-api-docs-and-tips",
+        "snippet": "Feb 7, 2024 · The Copper Web API allows you to access and build your own applications that interact with Copper in more complex ways than the integrations we provide out of the box.",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Getting started - Copper Developer Portal",
+        "url": "https://developer.copper.co/api-reference/getting-started",
+        "snippet": "The Copper platform is equipped with a powerful API to provide integration with your applications. This documentation describes the composition and usage of available API endpoints.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 0,
+        "field": "access",
+        "official": false
+      },
+      {
+        "title": "Copper API: pricing, auth, rate limits | API Terms",
+        "url": "https://apiterms.com/api/copper.com/",
+        "snippet": "The Copper API API uses OAuth 2.0 authentication; has paid pricing; offers a free tier (Free 14-day trial, no credit card required). Verified 2026-07-26 with per-field source links.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -19,
+        "field": "access",
+        "official": false
+      }
+    ],
+    "api": [
+      {
+        "title": "Reference | Copper App SDK",
+        "url": "https://docs.copper.com/copper-sdk/reference",
+        "snippet": "All of the developer api url is supported. The method and data format for each api end point can be found in the Copper's api documentation. refreshUI () The method refreshUI (target) will refresh the target's UI section. It is primarily used after the above api (url, options) call to update the UI to reflect the data changed in the server ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 97,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Getting started - Copper Developer API",
+        "url": "https://developer.copper.com/",
+        "snippet": "The Copper Developer API (\"Dev API\") provides a RESTful interface with JSON-formatted responses to access most Copper resources. We are continuously working on expanding our API functionality, so stay tuned! We have added a public changelog, please click here.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Requests - Copper Developer API",
+        "url": "https://developer.copper.com/introduction/requests.html",
+        "snippet": "The Copper Developer API provides a RESTful interface with JSON-formatted responses to access most Copper resources",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Developer resources and API | Copper Help Center",
+        "url": "https://support.copper.com/en/collections/9574908-developer-resources-and-api",
+        "snippet": "All Collections Integrations Developer resources and API Developer resources and API By Success · 5 articles",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Integrations | Copper Help Center",
+        "url": "https://support.copper.com/en/collections/9574747-integrations",
+        "snippet": "Developer resources and API Generating an API Key Learn more about Copper Webhooks Embedded Integrations API Docs and tips Embedded Integration Recipe - Route Planner",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Getting started - Copper Developer Portal",
+        "url": "https://developer.copper.co/api-reference/getting-started",
+        "snippet": "The Copper platform is equipped with a powerful API to provide integration with your applications. This documentation describes the composition and usage of available API endpoints.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 3,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "API Basics - Copper",
+        "url": "https://usecopper.com/docs/api_basics",
+        "snippet": "The Copper API is organized around REST. Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, generally returns JSON -encoded responses, and uses standard HTTP response codes, authentication, and verbs.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -11,
+        "field": "api",
+        "official": false
+      },
+      {
+        "title": "Introduction - Copper Developer Portal",
+        "url": "https://developer.copper.co/guides/introduction",
+        "snippet": "The first section offers comprehensive guides on specific API integrations to help you seamlessly incorporate our features. The second section provides an OpenAPI-based description of our Platform’s API, offering detailed insights into our endpoints and their functionalities.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -17,
+        "field": "api",
+        "official": false
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Webhook Notification Example - Copper Developer API",
+        "url": "https://developer.copper.com/webhooks/notification-example.html",
+        "snippet": "The Copper Developer API provides a RESTful interface with JSON-formatted responses to access most Copper resources",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 100,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Overview - Copper Developer API",
+        "url": "https://developer.copper.com/webhooks/overview.html",
+        "snippet": "Webhooks allow systems integrated with Copper to receive near real-time notification of certain events so that data updates and workflows can be triggered. Register a URL that notifications will be sent to when a specific event type occurs. A specific action in Copper that triggers a notification.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 99,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Create new subscription - Copper Developer API",
+        "url": "https://developer.copper.com/webhooks/create-new-subscription.html",
+        "snippet": "The Copper Developer API provides a RESTful interface with JSON-formatted responses to access most Copper resources",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Getting started - Copper Developer API",
+        "url": "https://developer.copper.com/",
+        "snippet": "Copper Developer API The Copper Web API allows you to access and build your own applications that interact with Copper in more complex ways than the integrations we provide out of the box. The Copper Developer API (\"Dev API\") provides a RESTful interface with JSON-formatted responses to access most Copper resources.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Setting up Copper webhooks | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823459-setting-up-copper-webhooks",
+        "snippet": "Copper webhooks allow you to subscribe to changes that happen in Copper. To use this article you will need a Trial, Professional or Business account. Full documentation of webhooks is here.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Learn more about Copper Webhooks | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823460-learn-more-about-copper-webhooks",
+        "snippet": "All Collections Integrations Developer resources and API Learn more about Copper Webhooks Learn more about Copper Webhooks Learn more about Copper Webhooks Written by Success at Copper February 7, 2024 Copy for LLM",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhook Events | Copperx Docs",
+        "url": "https://docs.copperx.io/api-and-reference/webhook-events",
+        "snippet": "Webhook Events Create Webhook: POST /api/v1/webhook-endpoints Get All Webhooks: GET /api/v1/webhook-endpoints Update Webhook: PUT /api/v1/webhook-endpoints/ {id} Delete Webhook: DELETE /api/v1/webhook-endpoints/ {id} Regenerate Secret: POST /api/v1/webhook-endpoints/ {id}/regenerate Test Webhook: POST /api/v1/webhook-endpoints/ {id}/test",
+        "source_type": "THIRD_PARTY",
+        "source_score": 24,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Webhook events - Copper Developer Portal",
+        "url": "https://developer.copper.co/guides/webhooks/webhook-event",
+        "snippet": "Webhook events Organization & API Keys ... Address Book ... Deposits & Withdrawals ... ClearLoop",
+        "source_type": "THIRD_PARTY",
+        "source_score": 6,
+        "field": "webhooks",
+        "official": false
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Getting started - Copper Developer API",
+        "url": "https://developer.copper.com/index.html",
+        "snippet": "Copper Developer API The Copper Web API allows you to access and build your own applications that interact with Copper in more complex ways than the integrations we provide out of the box. The Copper Developer API (\"Dev API\") provides a RESTful interface with JSON-formatted responses to access most Copper resources.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Overview - Copper Developer API",
+        "url": "https://developer.copper.com/projects/overview.html",
+        "snippet": "Projects A Project is a large set of work which needs to be completed. The Projects API allows you to create, view, delete and update your Projects. You can retrieve individual Projects, list all Projects, or use search filters to view subsets of your Projects. Project Properties",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Developer resources and API | Copper Help Center",
+        "url": "https://support.copper.com/en/collections/9574908-developer-resources-and-api",
+        "snippet": "All Collections Integrations Developer resources and API Developer resources and API By Success · 5 articles",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "API Docs and tips | Copper Help Center",
+        "url": "https://support.copper.com/en/articles/8823462-api-docs-and-tips",
+        "snippet": "All Collections Integrations Developer resources and API API Docs and tips API Docs and tips API Docs and tips Written by Success at Copper February 7, 2024 Copy for LLM",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Mailchimp integration with Copper CRM",
+        "url": "https://www.copper.com/integrations/mailchimp",
+        "snippet": "Connect Copper CRM and Mailchimp so both databases stay current automatically, ensuring no email or lead ever gets left behind.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "What is the Model Context Protocol (MCP)?",
+        "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+        "snippet": "Jul 28, 2026 · MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.",
+        "source_type": "MCP_REGISTRY",
+        "source_score": 41,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "MCP Docs – Model Context Protocol （MCP）",
+        "url": "https://modelcontextprotocol.info/docs/",
+        "snippet": "Welcome to the Model Context Protocol documentation! MCP is a standardized protocol designed to enhance the interaction between Large Language Models (LLMs) and applications by providing structured context management.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 31,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "GitHub - hasankhadra/copper-mcp: Unofficial MCP server for ...",
+        "url": "https://github.com/hasankhadra/copper-mcp",
+        "snippet": "Jul 16, 2026 · An MCP server that lets an AI agent (Claude Desktop, or any MCP client) read your Copper CRM and run light pipeline hygiene — search deals, spot stale opportunities, log a note, and schedule a follow-up.",
+        "source_type": "COMMUNITY_GITHUB",
+        "source_score": 26,
+        "field": "mcp",
+        "official": false
+      }
+    ]
+  }
+}

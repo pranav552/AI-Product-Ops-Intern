@@ -1,0 +1,18 @@
+{
+  "app_name": "DealCloud",
+  "repairs": [
+    "description: dropped evidence with unknown/invented evidence_id: api_docs",
+    "authentication: dropped evidence with unknown/invented evidence_id: auth_methods",
+    "authentication: downgraded unsupported method API_KEY to UNKNOWN",
+    "authentication: downgraded unsupported method OAUTH2 to UNKNOWN",
+    "access_model: dropped evidence with unknown/invented evidence_id: access_mode",
+    "access_model: downgraded unsupported classification SELF_SERVE to UNKNOWN",
+    "api: dropped evidence with unknown/invented evidence_id: api",
+    "api: downgraded unsupported style REST to UNKNOWN",
+    "api: downgraded unsupported style GRAPHQL to UNKNOWN",
+    "api.webhooks: downgraded unsupported YES to UNKNOWN",
+    "mcp: dropped evidence with unknown/invented evidence_id: mcp",
+    "mcp: downgraded unsupported classification COMMUNITY_MCP_EXISTS to UNKNOWN",
+    "buildability: no grounded evidence anywhere in record, clearing unsupported blockers"
+  ]
+}

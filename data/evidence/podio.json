@@ -1,0 +1,405 @@
+{
+  "app_name": "Podio",
+  "official_domain": "podio.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Work Management Platform | Streamline Collaboration & Workflows | Podio",
+        "url": "https://www.podio.com/",
+        "snippet": "Podio is the all-in-one work management software that helps teams collaborate, automate workflows, and manage projects with ease. Build custom solutions that drive productivity and efficiency.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Concepts and conventions: The core concepts of Podio - Podio API ...",
+        "url": "https://developers.podio.com/index/overview",
+        "snippet": "Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Developers - Podio API Documentation",
+        "url": "https://developers.podio.com/",
+        "snippet": "The Podio API is a complete programmable interface to all Podio functionality. We currently provide wrappers for PHP, .NET, Ruby, Java, Python, Android and Objective-C which make working with common API operations very simple.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Login | Podio",
+        "url": "https://podio.com/login",
+        "snippet": "Progress Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Podio Workspaces",
+        "url": "https://company.podio.com/en/podio-for-gotomeeting/gtm",
+        "snippet": "By registrering for Podio via GoToMeeting offer you authorize Podio to share the registration information provided and your participation in this special offer with Citrix Online.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "PDF Microsoft Word - Get Started on Podio.docx",
+        "url": "https://company.podio.com/resources/getstarted.pdf",
+        "snippet": "Get started on Podio Podio makes team collaboration a whole lot easier. No more long email treads, floating documents, information silos and duplicate work. Now your team can manage your work the way you want to, in one transparent place. This quick guide will take you through the most important aspects of Podio, showing you how it can help you and your team work more efficiently. To get the ...",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "OAuth authorization | Get access token - Podio API Documentation",
+        "url": "https://developers.podio.com/doc/oauth-authorization/get-access-token-22359",
+        "snippet": "Podio supports 4 ways of obtaining an access token: password: Use the end users mail and password to access the API. This is only valid for trusted clients. refresh_token: Use the refresh token obtained previously from one of the above methods. This operation can return a wide variety of error codes. For details see the OAuth 2 specification.",
+        "source_type": "OFFICIAL",
+        "source_score": 106,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "OAuth authorization | API Documentation - Podio",
+        "url": "https://developers.podio.com/doc/oauth-authorization",
+        "snippet": "To be able to access the API, a third party will have to register with Podio. This will result in a client being created, which can then be used when authenticating.",
+        "source_type": "OFFICIAL",
+        "source_score": 90,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Authentication - Podio API Documentation",
+        "url": "https://developers.podio.com/authentication",
+        "snippet": "The Podio API uses the OAuth2 protocol for authentication. This allows external apps to request authorization to Podio without having direct access to the user's password.",
+        "source_type": "OFFICIAL",
+        "source_score": 89,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Authentication: Server-side flow - Podio API Documentation",
+        "url": "https://developers.podio.com/authentication/server_side",
+        "snippet": "The first step is to redirect your user to Podio's authorization endpoint, providing your client_id and a redirect_uri. The redirect_uri must be on the same domain as the domain you specified when you applied for your API Key.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Authentication: Client-side flow - Podio API Documentation",
+        "url": "https://developers.podio.com/authentication/client_side",
+        "snippet": "Authentication Client-side flow The client-side flow is very similar to the server-side flow. It uses the same concept of redirects, and you should make yourself familiar with the server-side flow first. The only difference between the two is the response_type parameter. For the client-side flow it must be set to \"token\":",
+        "source_type": "OFFICIAL",
+        "source_score": 83,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Developers - Podio API Documentation",
+        "url": "https://developers.podio.com/",
+        "snippet": "We recommend that you start out by getting to know the concepts and conventions of Podio and its API and learn how to authenticate with us, before you dive into the tutorials and the documentation.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Podio API Documentation",
+        "url": "https://developers.podio.com/doc",
+        "snippet": "Our API is split up into different areas, that each contains a subset of methods grouped by functionality. You could call each area its own API, but we like to call them areas, because it's just a simple grouping.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Podio API Authentication - Universal API - mindcloud.co",
+        "url": "https://mindcloud.co/docs/universal/rest/podio/latest/introduction/authentication",
+        "snippet": "Every Podio API request through MindCloud needs two things: a MindCloud API Key and a connectionId for your Podio account. This page covers both, plus exactly how to send them, so you do not need to visit any other page to get authenticated.",
+        "source_type": "THIRD_PARTY",
+        "source_score": -12,
+        "field": "authentication",
+        "official": false
+      }
+    ],
+    "access": [
+      {
+        "title": "Reference | API Documentation - Podio",
+        "url": "https://developers.podio.com/doc/reference",
+        "snippet": "Podio API Documentation Reference Operations Count user profiles with access to object Get reference Get user profiles with access to object Resolve URL Search references API for getting generic information about objects",
+        "source_type": "OFFICIAL",
+        "source_score": 82,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Get API key - Podio API Documentation",
+        "url": "https://developers.podio.com/api-key",
+        "snippet": "It's easy to get one or more API keys for accessing your Podio data. You just have to sign in or sign up with Podio, and go to the API key tab in your settings. Get an API key now. Access your activity streams, apps, tasks, inbox and contacts with the Podio mobile app. Get work done anywhere.",
+        "source_type": "OFFICIAL",
+        "source_score": 78,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Concepts and conventions: Conventions and structure of the API",
+        "url": "https://developers.podio.com/index/api",
+        "snippet": "When dealing with people who are Podio users you should always provide their user_id or profile_id rather than an email address. This avoids duplicate user accounts in cases where the person is using a different email than you are anticipating.",
+        "source_type": "OFFICIAL",
+        "source_score": 78,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Developers - Podio API Documentation",
+        "url": "https://developers.podio.com/",
+        "snippet": "You'll need a Podio account, first of all. Then you should review our Terms of API use and then grab an API key for each app you want to build from your account settings page.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Podio API Documentation",
+        "url": "https://developers.podio.com/doc",
+        "snippet": "Our API is split up into different areas, that each contains a subset of methods grouped by functionality. You could call each area its own API, but we like to call them areas, because it's just a simple grouping.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Frequently Asked Questions - Podio API Documentation",
+        "url": "https://developers.podio.com/index/faq",
+        "snippet": "App tokens are available in the developer info section of any Podio app, but sometimes it's useful to be able to get app token programmatically. This allows you to e.g. configure script automatically.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Authentication: Scopes & Permissions - Podio API Documentation",
+        "url": "https://developers.podio.com/authentication/scopes",
+        "snippet": "Podio uses the concept of scopes to manage access restriction in order to ensure a safe relationship between a user's account and the externally connected application.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Applications | API Documentation - Podio API Documentation",
+        "url": "https://developers.podio.com/doc/applications",
+        "snippet": "Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "access",
+        "official": true
+      }
+    ],
+    "api": [
+      {
+        "title": "Reference | API Documentation - Podio",
+        "url": "https://developers.podio.com/doc/reference",
+        "snippet": "Access your activity streams, apps, tasks, inbox and contacts with the Podio mobile app. Get work done anywhere. iPhone Android",
+        "source_type": "OFFICIAL",
+        "source_score": 82,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Reference | Get reference - Podio API Documentation",
+        "url": "https://developers.podio.com/doc/reference/get-reference-10661022",
+        "snippet": "You can simulate the API request by filling out the arguments below, and press the submit button to see the response. You need to be logged in to Podio to use the Sandbox.",
+        "source_type": "OFFICIAL",
+        "source_score": 82,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Concepts and conventions: Conventions and structure of the API",
+        "url": "https://developers.podio.com/index/api",
+        "snippet": "Almost all objects returned from the API have references to the entity that created the object, updated the object, etc. In the operation details there will simply be a reference to this guide, which details the data returned from by-lines.",
+        "source_type": "OFFICIAL",
+        "source_score": 78,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Get API key - Podio API Documentation",
+        "url": "https://developers.podio.com/api-key",
+        "snippet": "Get API key Generating API keys to Podio It's easy to get one or more API keys for accessing your Podio data. You just have to sign in or sign up with Podio, and go to the API key tab in your settings. Get an API key now",
+        "source_type": "OFFICIAL",
+        "source_score": 78,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Developers - Podio API Documentation",
+        "url": "https://developers.podio.com/",
+        "snippet": "The Podio API is a complete programmable interface to all Podio functionality. We currently provide wrappers for PHP, .NET, Ruby, Java, Python, Android and Objective-C which make working with common API operations very simple.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Podio API Documentation",
+        "url": "https://developers.podio.com/doc",
+        "snippet": "Our API is split up into different areas, that each contains a subset of methods grouped by functionality. You could call each area its own API, but we like to call them areas, because it's just a simple grouping.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Tutorials - Podio API Documentation",
+        "url": "https://developers.podio.com/examples",
+        "snippet": "This section is dedicated to concrete examples and step-by-step tutorials on how to use the Podio API. While we aim to have examples in all major programming languages over time, our current examples are in PHP and Ruby.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "api",
+        "official": true
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Tutorials: Working with webhooks - Podio API Documentation",
+        "url": "https://developers.podio.com/examples/webhooks",
+        "snippet": "Each webhook is registered to receive updates about a specific event in Podio, for example an item being updated or a comment being added. View a full list of supported events in the API reference documentation.",
+        "source_type": "OFFICIAL",
+        "source_score": 96,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks - Podio.com",
+        "url": "https://workflow-automation.podio.com/help/webhooks.php",
+        "snippet": "Webhooks do not have any correlation with any Podio Apps. This means you'll need to either Create a New Item, or Search for an Item in an app using the information posted to the Webhook.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Developers - Podio API Documentation",
+        "url": "https://developers.podio.com/",
+        "snippet": "If you want to build event-driven applications, you have the ability to register webhooks in your Podio apps. There are some sensible rate-limits in place, but if you need us to raise them for your app, get in touch.",
+        "source_type": "OFFICIAL",
+        "source_score": 79,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Hooks | API Documentation - Podio",
+        "url": "https://developers.podio.com/doc/hooks",
+        "snippet": "Space level hooks are events that are specific to a space, but not a specific app. Currently that covers public tasks in the space and members joining and leaving.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Podio API Documentation",
+        "url": "https://developers.podio.com/doc",
+        "snippet": "Our API is split up into different areas, that each contains a subset of methods grouped by functionality. You could call each area its own API, but we like to call them areas, because it's just a simple grouping.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Hooks | Create hook - Podio API Documentation",
+        "url": "https://developers.podio.com/doc/hooks/create-hook-215056",
+        "snippet": "Podio API Documentation Hooks: Create hook Standard / Limit B App Authentication Show other operations",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "webhooks",
+        "official": true
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Reference | API Documentation - Podio",
+        "url": "https://developers.podio.com/doc/reference",
+        "snippet": "Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 82,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "mcp.podio.com",
+        "url": "https://mcp.podio.com/",
+        "snippet": "{\"service\":\"Podio External MCP Server\",\"version\":\"2.0.0\",\"description\":\"MCP server exposing Podio API tools for integration with ChatGPT, Copilot Studio, and other ...",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Developers - Podio API Documentation",
+        "url": "https://developers.podio.com/",
+        "snippet": "Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Podio API Documentation",
+        "url": "https://developers.podio.com/doc",
+        "snippet": "Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Login | Podio",
+        "url": "https://podio.com/login",
+        "snippet": "Progress Podio is the online work platform. Manage, share, and get your work done smarter together with tools that work like you. Free for 5 Users.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Podio MCP Server - MCP AI | Zapier",
+        "url": "https://zapier.com/mcp/podio",
+        "snippet": "Zapier Podio MCP lets you connect Podio 's actions with any AI tool that supports MCP, all without managing integrations or writing glue code. It's built for developers who want flexibility without complexity.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 21,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "Podio MCP Server Integration Guide - Progress Software",
+        "url": "https://www.progress.com/podio/documentation/using-podio/podio-mcp-server",
+        "snippet": "The Podio MCP (Model Context Protocol) Server connects AI assistants — ChatGPT, Microsoft Copilot Studio, Claude Desktop, and any other MCP-compatible platform — directly to your Podio data.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 16,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "GitHub - stoskov/podio-mcp",
+        "url": "https://github.com/stoskov/podio-mcp",
+        "snippet": "An MCP (Model Context Protocol) server that gives AI agents access to the Podio API. Designed around what users want to accomplish, not around raw API endpoints.",
+        "source_type": "COMMUNITY_GITHUB",
+        "source_score": 16,
+        "field": "mcp",
+        "official": false
+      }
+    ]
+  }
+}

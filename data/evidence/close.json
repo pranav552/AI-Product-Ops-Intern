@@ -1,0 +1,441 @@
+{
+  "app_name": "Close",
+  "official_domain": "close.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Close 2025 Product Roundup: Automation, AI, and Your New Sales Command ...",
+        "url": "https://www.close.com/blog/close-2025-product-roundup",
+        "snippet": "Explore Close's 2025 product updates—automation, AI, and reporting built to help you sell faster. Learn more or start a trial.",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Close Partner Directory",
+        "url": "https://partners.close.com/",
+        "snippet": "Our work typically includes Close onboarding, CRM setup, pipeline architecture, lead routing, workflow automation, follow-up systems, process cleanup, and integrations with forms, calendars, email platforms, and other business tools.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Close CRM | The CRM That Does the Work",
+        "url": "https://close.com/",
+        "snippet": "Close is the CRM with a built-in AI teammate that works with your team to call leads, qualify prospects, book meetings, and keep your CRM up to date automatically, so you can focus on selling.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Close Help | Close Help Center",
+        "url": "https://help.close.com/",
+        "snippet": "Welcome to Close Help Find answers and guides to get the most out of Close.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Sales CRM Software for Growing Businesses | Close",
+        "url": "https://www.close.com/our-crm",
+        "snippet": "Close brings calling, email, SMS, tasks, and pipeline management into one sales CRM—so your team can move faster without switching tools.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Free CRM Trial | The CRM That Does the Work | Close",
+        "url": "https://www.close.com/try-now",
+        "snippet": "Start your free 14-day CRM trial. Close is the sales CRM that calls leads, qualifies prospects, books meetings, and updates your CRM automatically. Built-in calling, email, SMS, and Chloe, your first AI sales teammate. No credit card required.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "About Close CRM",
+        "url": "https://www.close.com/about",
+        "snippet": "Built-in calling and email were core to Close from our public launch in 2013, and native SMS came soon after. We were building a CRM that improved how reps communicate, not just a system that tracks it.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Best CRM for Small Business | Close",
+        "url": "https://www.close.com/crm-for-small-business",
+        "snippet": "Get the best simple CRM for small business. Close is an intuitive, all-in-one CRM to boost your business’s sales and efficiency in just days. Try Close for free today.",
+        "source_type": "OFFICIAL",
+        "source_score": 60,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "Authentication with OAuth - Close API Documentation",
+        "url": "https://developer.close.com/api/overview/oauth-authentication",
+        "snippet": "Jun 20, 2023 · How to register an OAuth 2.0 application and authenticate users with the Close API. To implement authentication with OAuth 2.0, you need to create an OAuth app to get your Client ID and Client Secret. You’ll also need to implement a redirect URI in your application.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 124,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "API Keys & OAuth - help.close.com",
+        "url": "https://help.close.com/v1/docs/api-keys-oauth",
+        "snippet": "Third-party apps can use OAuth to request access to your Close organization, which involves a process where you can approve or deny the specific app's access to your Close data, rather than handling API keys directly.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 119,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "API Overview | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/overview",
+        "snippet": "All API requests require authentication. Two methods are supported: API Keys — Best for scripts, internal tools, and server-side integrations. Use HTTP Basic Auth with your API key as the username and an empty password. OAuth 2.0 — Best for user-facing integrations. Core concepts ... Making requests All requests use JSON (Content-Type ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 107,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Creating an OAuth App | Close | Developer API Documentation",
+        "url": "https://developer.close.com/integrations/create-an-oauth-app",
+        "snippet": "OAuth 2.0 allows third-party applications to access Close data on behalf of users without exposing passwords or sharing API keys. You can create custom OAuth apps for Close to add bespoke features, automate tasks, and enhance data analytics, tailored to your business needs.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 106,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Build an Integration | Close | Developer API Documentation",
+        "url": "https://developer.close.com/integrations",
+        "snippet": "Implement the OAuth 2.0 flow — Let users authorize your app and obtain access tokens. Build your integration — Use the API Reference to interact with Close data on behalf of each connected customer.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 96,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "API Keys & OAuth | Close Help Center",
+        "url": "https://help.close.com/integrations/api-keys-oauth",
+        "snippet": "Third-party apps can use OAuth to request access to your Close organization, which involves a process where you can approve or deny the specific app’s access to your Close data, rather than handling API keys directly.",
+        "source_type": "OFFICIAL",
+        "source_score": 94,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Close API Documentation - Close Developer Platform | Close",
+        "url": "https://developer.close.com/",
+        "snippet": "Whether you’re a Close customer automating your sales process or a partner building an integration, the Close Developer Platform gives everything you or your AI agents need.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "How to use Identity to secure a Web API backend for SPAs",
+        "url": "https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-api-authorization?view=aspnetcore-10.0",
+        "snippet": "Mar 23, 2026 · ASP.NET Core Identity provides APIs that handle authentication, authorization, and identity management. The APIs make it possible to secure endpoints of a Web API backend with cookie-based authentication. A token-based option is available for clients that can't use cookies, but in using this you are responsible for ensuring the tokens are kept secure. We recommend using cookies for browser ...",
+        "source_type": "THIRD_PARTY",
+        "source_score": -26,
+        "field": "authentication",
+        "official": false
+      }
+    ],
+    "access": [
+      {
+        "title": "List user availability statuses | Close | Developer API ...",
+        "url": "https://developer.close.com/api/resources/users/list-availabilities",
+        "snippet": "List user availability statuses for all users in an organization. The active_calls field is an array of call metadata for calls that the user is currently participating in.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 111,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "API Overview | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/overview",
+        "snippet": "Key concepts for working with the Close REST API.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 98,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Close Developer Platform | Close | Developer API Documentation",
+        "url": "https://developer.close.com/",
+        "snippet": "Use cases Push in CRM data — Push leads, contacts, activities, and custom data into Close from your website or other systems via the REST API. Sync data out — Stream changes with webhooks, query the event log, or pull reporting metrics and pipeline data into your BI tools, data warehouse, or design custom dashboards & reports.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Build an Integration | Close | Developer API Documentation",
+        "url": "https://developer.close.com/integrations",
+        "snippet": "Close’s REST API supports everything from a simple internal script to a full product integration used by thousands of Close customers. If building AI Agent integrations, you may prefer to connect via the MCP server instead.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Close MCP Server | Close | Developer API Documentation",
+        "url": "https://developer.close.com/mcp",
+        "snippet": "Close’s MCP server is officially supported across the Claude ecosystem. Watch this video to learn more about connecting Claude to Close and see some example use cases:",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Pricing | Close CRM",
+        "url": "https://www.close.com/pricing",
+        "snippet": "Compare Close plans and pricing to find the right fit for your business. See why growing teams choose the CRM that does the work. Start your free 14-day trial—no credit card required.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Close",
+        "url": "https://api.close.com/",
+        "snippet": "Close",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "API Keys & OAuth | Close Help Center",
+        "url": "https://help.close.com/integrations/api-keys-oauth",
+        "snippet": "There are two main ways to authorize (connect) your Close organization to third-party applications or your own internal system: using API keys using OAuth access Both methods are designed to help you automate and sync your sales process with other platforms while maintaining high levels of security and data privacy. Whether a third-party app uses an API key or OAuth to connect to Close depends ...",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "access",
+        "official": true
+      }
+    ],
+    "api": [
+      {
+        "title": "API Overview | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/overview",
+        "snippet": "List endpoints support pagination via _skip / _limit or cursor-based pagination. Use the _fields parameter to control which fields are returned and improve performance.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 101,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "API Clients | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/overview/api-clients",
+        "snippet": "The Close REST API is usable in any programming language that can send HTTP requests and handle HTTP responses. To make development using our API easier, some awesome contributors have helped us develop numerous API Clients for multiple programming languages. Check them out below: Python Close's Python Wrapper (Officially maintained by Close ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 101,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Files | Close - Developer API Documentation",
+        "url": "https://developer.close.com/api/resources/files",
+        "snippet": "See the AWS documentation for more information. Once the upload request has been made successfully (201 HTTP status code), the file will be available for use in other API endpoints for at most 24 hours. The response from /files/upload will contain a download.url field, whose value should be used when referencing this file in other API endpoints.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 101,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Playbooks | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/resources/playbooks",
+        "snippet": "The Playbooks API is currently in beta and not yet available to all organizations. Playbooks are reusable templates that standardize how your team conducts calls and meetings. Each Playbook defines a structured workflow including a name, description, optional AI summary guidance, linked Custom Fields, and linked Outcomes. When a Playbook is assigned to a Callor Meeting, the associated Custom ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 98,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Opportunities | Close - Developer API Documentation",
+        "url": "https://developer.close.com/api/resources/opportunities",
+        "snippet": "Opportunities represent a potential deal with a given company/lead. Opportunities have a customizable status (which always has a status_type of either active, won, or lost), and optionally can have a monetary amount associated with them. Opportunities can be associated with one or more Opportunity Custom Fields or Shared Fields.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 98,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Build an Integration | Close | Developer API Documentation",
+        "url": "https://developer.close.com/integrations",
+        "snippet": "Close’s REST API supports everything from a simple internal script to a full product integration used by thousands of Close customers. If building AI Agent integrations, you may prefer to connect via the MCP server instead.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 93,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Close Developer Platform | Close | Developer API Documentation",
+        "url": "https://developer.close.com/",
+        "snippet": "Build integrations, automate workflows, and extend Close for your team.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 90,
+        "field": "api",
+        "official": true
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Webhooks | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/resources/webhooks",
+        "snippet": "Configure webhook subscriptions to receive real-time event notifications from Close. Webhooks allow a subscription URL to be configured that we will POST event data to as it is added to the Event Log. Each subscription is configured to trigger when an event matches a set of object types and actions.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 127,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks Subscription API | Close | Developer API Documentation",
+        "url": "https://developer.close.com/api/overview/changelog/2018/11/28",
+        "snippet": "Nov 28, 2018 · / Ask AI Homepage Product Help Log in Try for Free Developers Home API Reference MCP",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 118,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Create new Webhook subscription | Close | Developer API ...",
+        "url": "https://developer.close.com/api/resources/webhooks/create",
+        "snippet": "Apr 10, 2026 · A list of events to subscribe to. Each event has an object_type and an action from values in the event log. You can also use Webhook Filters while creating your subscription so that an event only fires to a Webhook when certain conditions are met.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 114,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Update existing Webhook subscription | Close | Developer API ...",
+        "url": "https://developer.close.com/api/resources/webhooks/update",
+        "snippet": "Update existing Webhook subscription Copy page | View as Markdown | Open in Claude | More actions PUT https://api.close.com/api/v1/webhook/: id / PUT /api/v1/webhook/: id / cURL",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 111,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Close API Documentation - Close Developer Platform | Close",
+        "url": "https://developer.close.com/",
+        "snippet": "Sync data out — Stream changes with webhooks, query the event log, or pull reporting metrics and pipeline data into your BI tools, data warehouse, or design custom dashboards & reports.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 99,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Webhooks - Shopify Developers Platform",
+        "url": "https://shopify.dev/docs/api/webhooks/latest",
+        "snippet": "Anchor to Headers Headers Every webhook delivery includes headers that describe the topic, source store, API version, and delivery IDs. Treat header names as case-insensitive in your code, because HTTP/2 often lowercases them. ... To learn more, see Webhooks delivery structure.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 9,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "How to Use Webhooks to Trigger Events and Notifications from APIs",
+        "url": "https://dev.to/syncloop_dev/how-to-use-webhooks-to-trigger-events-and-notifications-from-apis-3oc0",
+        "snippet": "Apr 10, 2024 · Webhooks offer a powerful mechanism to achieve this by enabling APIs to proactively trigger events and notifications based on specific actions. This blog delves into the world of webhooks, exploring their technical details, integration processes, benefits, and use cases across various industries.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 7,
+        "field": "webhooks",
+        "official": false
+      },
+      {
+        "title": "Webhook events and payloads - GitHub Docs",
+        "url": "https://docs.github.com/en/webhooks/webhook-events-and-payloads",
+        "snippet": "About webhook events and payloads You can create webhooks that subscribe to the events listed on this page. To limit the number of HTTP requests to your server, you should only subscribe to the specific events that you plan on handling. For more information, see Creating webhooks.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 4,
+        "field": "webhooks",
+        "official": false
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Close MCP Server | Close | Developer API Documentation",
+        "url": "https://developer.close.com/mcp",
+        "snippet": "Close’s MCP server is officially supported across the Claude ecosystem. Watch this video to learn more about connecting Claude to Close and see some example use cases:",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 116,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Close MCP Tools | Close | Developer API Documentation",
+        "url": "https://developer.close.com/mcp/tools",
+        "snippet": "The Close MCP Server provides tools organized by scope. Each higher scope includes all tools from the lower scopes.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 106,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Close MCP Server | Close Help Center",
+        "url": "https://help.close.com/integrations/close-mcp-server",
+        "snippet": "Close’s MCP server is an officially supported across the Claude ecosystem. Watch this video to learn more about connecting to Claude to Close and see some example use cases:",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Close MCP CRM Integration",
+        "url": "https://www.close.com/integrations/close-mcp",
+        "snippet": "Model Context Protocol (MCP) servers provide a standardized interface that allows any compatible AI model or agent to access your Close data simply and securely. Use the documentation link for instructions to add Close’s MCP server to commonly used clients.",
+        "source_type": "OFFICIAL",
+        "source_score": 79,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Close MCP Tools | Close Help Center",
+        "url": "https://help.close.com/integrations/close-mcp-server/close-mcp-tools",
+        "snippet": "Create a new Lead once a Calendly meeting is booked Perform an action when a Workflow ends Creating additional SMS notifications for users Enforcing required fields in Close via Zapier Create an Opportunity when Status is changed to Qualified Creating a multi-channel sales workflow in Close Avoiding Lead Rot and Consolidating Smart Views",
+        "source_type": "OFFICIAL",
+        "source_score": 70,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "What is the Model Context Protocol (MCP)?",
+        "url": "https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro",
+        "snippet": "Jul 28, 2026 · MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.",
+        "source_type": "MCP_REGISTRY",
+        "source_score": 41,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "MCP Docs – Model Context Protocol （MCP）",
+        "url": "https://modelcontextprotocol.info/docs/",
+        "snippet": "MCP is a standardized protocol designed to enhance the interaction between Large Language Models (LLMs) and applications by providing structured context management.",
+        "source_type": "THIRD_PARTY",
+        "source_score": 28,
+        "field": "mcp",
+        "official": false
+      },
+      {
+        "title": "Model Context Protocol (MCP)",
+        "url": "https://github.com/modelcontextprotocol/modelcontextprotocol",
+        "snippet": "The official MCP documentation is built using Mintlify and available at modelcontextprotocol.io. The Model Context Protocol was created by David Soria Parra (@dsp) and Justin Spahr-Summers (@jspahrsummers). See CONTRIBUTING.md. This project is licensed under the MIT License.",
+        "source_type": "COMMUNITY_GITHUB",
+        "source_score": 26,
+        "field": "mcp",
+        "official": false
+      }
+    ]
+  }
+}

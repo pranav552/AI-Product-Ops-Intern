@@ -1,0 +1,18 @@
+{
+  "app_name": "Twenty",
+  "repairs": [
+    "description: dropped evidence with unknown/invented evidence_id: mcp2",
+    "authentication: dropped evidence with unknown/invented evidence_id: mcp0",
+    "authentication: downgraded unsupported method OAUTH2 to UNKNOWN",
+    "authentication: downgraded unsupported method API_KEY to UNKNOWN",
+    "access_model: dropped evidence with unknown/invented evidence_id: mcp0",
+    "access_model: downgraded unsupported classification SELF_SERVE to UNKNOWN",
+    "api: dropped evidence with unknown/invented evidence_id: mcp0",
+    "api: downgraded unsupported style REST to UNKNOWN",
+    "api: downgraded unsupported style GRAPHQL to UNKNOWN",
+    "api.webhooks: downgraded unsupported YES to UNKNOWN",
+    "mcp: dropped fabricated/ungrounded quote for evidence_id: mcp0",
+    "mcp: downgraded unsupported classification OFFICIAL_MCP_EXISTS to UNKNOWN",
+    "buildability: no grounded evidence anywhere in record, clearing unsupported blockers"
+  ]
+}

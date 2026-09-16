@@ -1,0 +1,41 @@
+{
+  "app_name": "Notion",
+  "description": {
+    "value": "Notion provides a REST API for interacting with workspace content.",
+    "evidence": [
+      {
+        "url": "https://developers.notion.com/",
+        "quote": "With the REST API, you can read, create, and update nearly everything in a workspace."
+      }
+    ],
+    "confidence": "HIGH"
+  },
+  "authentication": {
+    "methods": [],
+    "evidence": [],
+    "confidence": "HIGH"
+  },
+  "access_model": {
+    "classification": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "api": {
+    "styles": [],
+    "breadth": "UNKNOWN",
+    "resources": [],
+    "actions": [],
+    "webhooks": false,
+    "evidence": [],
+    "confidence": "HIGH"
+  },
+  "mcp": {
+    "classification": "UNKNOWN",
+    "evidence": [],
+    "confidence": "UNKNOWN"
+  },
+  "buildability": {
+    "blockers": [],
+    "reasoning": ""
+  }
+}

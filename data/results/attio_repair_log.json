@@ -1,0 +1,21 @@
+{
+  "app_name": "Attio",
+  "repairs": [
+    "description: dropped evidence with unknown/invented evidence_id: app1",
+    "description: dropped evidence with unknown/invented evidence_id: app2",
+    "authentication: dropped evidence with unknown/invented evidence_id: auth1",
+    "authentication: dropped evidence with unknown/invented evidence_id: auth2",
+    "authentication: downgraded unsupported method OAUTH2 to UNKNOWN",
+    "access_model: dropped evidence with unknown/invented evidence_id: access1",
+    "access_model: dropped evidence with unknown/invented evidence_id: access2",
+    "access_model: downgraded unsupported classification GATED_SALES to UNKNOWN",
+    "api: dropped fabricated/ungrounded quote for evidence_id: api1",
+    "api: dropped fabricated/ungrounded quote for evidence_id: api2",
+    "api: downgraded unsupported style REST to UNKNOWN",
+    "api.webhooks: downgraded unsupported YES to UNKNOWN",
+    "mcp: dropped fabricated/ungrounded quote for evidence_id: mcp1",
+    "mcp: dropped fabricated/ungrounded quote for evidence_id: mcp2",
+    "mcp: downgraded unsupported classification NO_MCP_FOUND to UNKNOWN",
+    "buildability: no grounded evidence anywhere in record, clearing unsupported blockers"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "app_name": "Notion",
+  "category": "Productivity",
+
+  "description": {
+    "value": "...",
+    "evidence": {
+      "url": "...",
+      "quote": "..."
+    },
+    "confidence": "high"
+  },
+
+  "authentication": {
+    "methods": [
+      {
+        "type": "OAuth2",
+        "evidence": {
+          "url": "...",
+          "quote": "..."
+        },
+        "confidence": "high"
+      }
+    ]
+  },
+
+  "access_model": {
+    "classification": "SELF_SERVE",
+    "details": "...",
+    "evidence": {
+      "url": "...",
+      "quote": "..."
+    },
+    "confidence": "high"
+  },
+
+  "api": {
+    "styles": ["REST"],
+    "graphql": false,
+    "rest": true,
+    "webhooks": true,
+
+    "breadth": {
+      "classification": "BROAD",
+      "resources": [],
+      "actions": []
+    },
+
+    "evidence": [],
+    "confidence": "medium"
+  },
+
+  "mcp": {
+    "exists": false,
+    "official": false,
+    "source_type": null,
+    "evidence": null,
+    "confidence": "medium"
+  },
+
+  "buildability": {
+    "verdict": "BUILDABLE",
+    "blockers": [],
+    "reasoning": "..."
+  },
+
+  "research_metadata": {
+    "researched_at": "...",
+    "sources_consulted": [],
+    "search_queries": [],
+    "validation_status": "PENDING",
+    "repair_attempts": 0
+  }
+}

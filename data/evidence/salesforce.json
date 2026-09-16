@@ -1,0 +1,288 @@
+{
+  "app_name": "Salesforce",
+  "official_domain": "salesforce.com",
+  "sources": {
+    "description": [
+      {
+        "title": "Complete Salesforce Products & Software Suite",
+        "url": "https://www.salesforce.com/products/",
+        "snippet": "Salesforce is the #1 AI CRM, where humans with agents drive customer success together with AI, data, and Customer 360 apps on one unified platform.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Salesforce Help | Products",
+        "url": "https://help.salesforce.com/s/products?language=en_US",
+        "snippet": "Salesforce for Nonprofits Communications, Media, Energy & Utilities MuleSoft Additional Products",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "What Is Salesforce? | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=sf.overview.htm&language=en_US&type=5",
+        "snippet": "Run your business from anywhere with Salesforce. Use standard products and features to manage relationships with prospects and customers, collaborate and engage with employees and partners, and store your data securely in the cloud. But standard products and features are only the beginning. With our platform, you can customize and personalize the experience for your customers, partners, and ...",
+        "source_type": "OFFICIAL",
+        "source_score": 66,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "Salesforce.com, Inc. - Salesforce Investor Relations",
+        "url": "https://investor.salesforce.com/overview/default.aspx",
+        "snippet": "Corporate Overview Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Through Agentforce, our suite of customizable agents and tools, Salesforce brings autonomous AI agents, unified data, and Customer 360 apps together on one integrated platform to help companies connect with customers in a whole new way ...",
+        "source_type": "OFFICIAL",
+        "source_score": 66,
+        "field": "description",
+        "official": true
+      },
+      {
+        "title": "What is Salesforce? | Salesforce",
+        "url": "https://www.salesforce.com/products/what-is-salesforce/",
+        "snippet": "Explore Salesforce, the world's leading Customer Relationship Management (CRM) platform helping companies connect with customers in a whole new way.",
+        "source_type": "OFFICIAL",
+        "source_score": 63,
+        "field": "description",
+        "official": true
+      }
+    ],
+    "authentication": [
+      {
+        "title": "Step Two: Set Up Authentication | Quick Start | REST API Developer ...",
+        "url": "https://developer.salesforce.com/docs/platform/api-rest/guide/quickstart-oauth.html",
+        "snippet": "To successfully send requests, REST API requires an access token obtained by authentication. Although you can create and authenticate against your own connected app, these Quick Start examples use Salesforce CLI for convenience.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 129,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Quick Start | REST API Developer Guide | Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/platform/api-rest/guide/quickstart.html",
+        "snippet": "To successfully send requests, REST API requires an access token obtained by authentication. Although you can create and authenticate against your own connected app, these Quick Start examples use Salesforce CLI for convenience.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 119,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Access Tokens | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_access_tokens.htm&language=en_US&type=5",
+        "snippet": "Access tokens are your key to Salesforce APIs. When a client successfully completes an authorization flow, whether it's a standard OAuth 2.0 flow or a headless identity flow, Salesforce issues an access token that can be used to access protected Salesforce data.",
+        "source_type": "OFFICIAL",
+        "source_score": 79,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Manage API Tokens | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=platform.platform_o_manage_api_tokens.htm&language=en_US&type=5",
+        "snippet": "Use API Tokens, based on OAuth 2.0 authentication protocol, as a means to access Own from Salesforce APIs. Treat API tokens as securely as any other type of password. Make sure to store this token in a safe and secure location.",
+        "source_type": "OFFICIAL",
+        "source_score": 74,
+        "field": "authentication",
+        "official": true
+      },
+      {
+        "title": "Improve API Security Using Tokens - Trailhead",
+        "url": "https://trailhead.salesforce.com/content/learn/modules/marketing-cloud-apis/stay-secure-with-access-tokens",
+        "snippet": "Learn how to secure Marketing Cloud Engagement APIs with access tokens and enhance API security today.",
+        "source_type": "OFFICIAL",
+        "source_score": 61,
+        "field": "authentication",
+        "official": true
+      }
+    ],
+    "access": [
+      {
+        "title": "Availability | Chat REST API Developer Guide | Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_Availability.htm",
+        "snippet": "Availability.ids An array of object IDs for which to verify availability. Availability.needEstimatedWaitTime Indicates whether the estimatedWaitTime property should be filled. Specify a value of 1 to request the estimated wait time. Request body None Response body Availability response",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 118,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "API Library | Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/apis",
+        "snippet": "Discover Salesforce APIs in the Salesforce Developers API Library to extend and integrate your applications.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 113,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "PDF REST API Developer Guide - Salesforce",
+        "url": "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/api_rest.pdf",
+        "snippet": "Supported Editions for API Access API access is enabled by default in Enterprise, Performance, Unlimited, and Developer Edition orgs. Professional Edition orgs can add API access as an add-on. For more information, visit Salesforce Help: Add Products and Licenses with the Your Account App or contact a Salesforce account executive.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 99,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Salesforce editions with API access",
+        "url": "https://help.salesforce.com/s/articleView?id=000385436&language=en_US&type=1",
+        "snippet": "Platform Events and the Streaming API are also available in all API-enabled editions. Not all Salesforce editions include API access. The edition your organization uses determines whether API access is available by default, can be purchased as an add-on, or is not available at all.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "access",
+        "official": true
+      },
+      {
+        "title": "Manage API Access | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=xcloud.security_api_access_control_about.htm&language=en_US&type=5",
+        "snippet": "Use API Access Control to manage access to your Salesforce APIs. With this feature, you can restrict all users from accessing your Salesforce APIs unless they're pre-authorized through an approved (allowlisted) connected app. Or you can restrict only customers and partners from accessing your Salesforce APIs unless they're using a connected app that is installed in your org.",
+        "source_type": "OFFICIAL",
+        "source_score": 81,
+        "field": "access",
+        "official": true
+      }
+    ],
+    "api": [
+      {
+        "title": "Reference | REST API Developer Guide | Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/platform/api-rest/guide/resources-list.html",
+        "snippet": "The following table lists supported REST resources in the API and provides a brief description for each. In each case, the URI for the resource follows the base URI, https://MyDomainName.my.salesforce.com.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 129,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "API Library | Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/apis",
+        "snippet": "Discover Salesforce APIs in the Salesforce Developers API Library to extend and integrate your applications.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 113,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "PDF REST API Developer Guide - Salesforce",
+        "url": "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/api_rest.pdf",
+        "snippet": "You can use REST API tools to create, manipulate, and search data in Salesforce by sending HTTP requests to endpoints in Salesforce. Depending on where you send requests, you access and operate on different pieces of information, called resources.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 112,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "OAuth Endpoints | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_endpoints.htm&language=en_US&type=5",
+        "snippet": "Learn about OAuth endpoints in Salesforce for secure authentication and authorization processes in your applications.",
+        "source_type": "OFFICIAL",
+        "source_score": 73,
+        "field": "api",
+        "official": true
+      },
+      {
+        "title": "Work With APIs | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=platform.work_with_apis.htm&language=en_US&type=5",
+        "snippet": "Work With APIs Salesforce provides programmatic access to your org's information using simple, powerful, and secure application programming interfaces. Which API Do I Use? Choose the right Salesforce API for your integration needs. Review the selection of APIs Salesforce offers, including the supported protocols, data formats, and use cases.",
+        "source_type": "OFFICIAL",
+        "source_score": 68,
+        "field": "api",
+        "official": true
+      }
+    ],
+    "webhooks": [
+      {
+        "title": "Get Started with Salesforce Spiff Webhook API",
+        "url": "https://developer.salesforce.com/docs/sales/spiff/guide/webhook-api-get-started.html",
+        "snippet": "A webhook provides authorized endpoints for Salesforce Spiff to sync third-party data in real time from an external source. A webhook includes a mapping that specifies how the third-party data maps to Spiff records. After you set up a webhook and define a mapping, use the Spiff webhook API endpoints to test the webhook authentication, upsert records, or delete records. 1. Create a Webhook and ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 126,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Declarative Webhooks - Effortless Integrations for Salesforce",
+        "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000FNBsKUAX",
+        "snippet": "Quickly and easily create integrations between Salesforce and external systems. Using a point-and-click interface, users can configure webhooks to automate the transfer of data between Salesforce and other systems, eliminating the need for custom code.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Create a Webhook Data Action Target | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=sf.c360_a_create_a_data_action_target_of_webhook_type.htm&language=en_US&type=5",
+        "snippet": "Create a Webhook Data Action Target Send a data action event to a webhook target and protect the message integrity with a Salesforce-generated secret key. A webhook is a type of API that's event driven rather than request driven. The secret key validates the payload requests sent from Salesforce. The webhook transports the HTTP payload with events in the format of DataObjectDataChgEvent.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "Hooked - Declarative webhook builder for Salesforce",
+        "url": "https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FYjnyUAD",
+        "snippet": "Hooked is a 100% native declarative webhook builder for Salesforce. With webhooks you can automatically send JSON data from Salesforce to an external system and handle any responses.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "webhooks",
+        "official": true
+      },
+      {
+        "title": "How to create webhooks in | Salesforce Trailblazer Community",
+        "url": "https://trailhead.salesforce.com/trailblazer-community/feed/0D54V00007T4PeeSAF",
+        "snippet": "I am looking to integrate a 3rd party app with Salesforce in order to merge duplicate leads, the integration so far has failed and I found a forum that says I need to enable webhooks in Salesforce which currently Salesforce doesn't provide out-of-the-box. How can I create webhooks in Salesforce myself to move forward with the integration?",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "webhooks",
+        "official": true
+      }
+    ],
+    "mcp": [
+      {
+        "title": "Get Started | Hosted MCP Servers | Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/hosted-mcp-servers-overview.html",
+        "snippet": "Salesforce Hosted MCP Servers give AI agents a secure, governed way to interact with Salesforce data and automation. Using the open Model Context Protocol (MCP) standard, any compatible AI client—Claude, ChatGPT, Cursor, or a custom agent—can connect to a Salesforce org and act on behalf of authorized users. Think of it as a universal connector: instead of building custom API integrations ...",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 134,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Hosted MCP Servers - Salesforce Developers",
+        "url": "https://developer.salesforce.com/docs/platform/hosted-mcp-servers/overview",
+        "snippet": "Salesforce Hosted MCP Servers Give AI agents a secure, governed way to interact with Salesforce data and automation using the Model Context Protocol (MCP). Any compatible AI client can connect to your org using standard OAuth authentication.",
+        "source_type": "OFFICIAL_DEVELOPER_DOCS",
+        "source_score": 134,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Salesforce DX MCP Server | Salesforce Help",
+        "url": "https://help.salesforce.com/s/articleView?id=release-notes.rn_tools_dx_mcp.htm&language=en_US&type=5",
+        "snippet": "The Salesforce DX MCP Server is a specialized Model Context Protocol (MCP) implementation that facilitates interaction between LLMs and Salesforce orgs. Use the DX MCP Server and its tools to enter natural language prompts in your IDE to execute standard DX tasks, such as syncing metadata, running Apex and agent tests, and creating scratch orgs.",
+        "source_type": "OFFICIAL",
+        "source_score": 89,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Connecting MCP Servers to Salesforce",
+        "url": "https://help.salesforce.com/s/articleView?id=ai.agent_mcp_connect.htm&language=en_US&type=5",
+        "snippet": "The process for connecting Salesforce to an MCP server depends on the source of the server. Connect third-party MCP servers using the Agentforce Registry. Connect Mulesoft and Salesforce-hosted servers using API Catalog.",
+        "source_type": "OFFICIAL",
+        "source_score": 86,
+        "field": "mcp",
+        "official": true
+      },
+      {
+        "title": "Agentforce MCP Support - Salesforce",
+        "url": "https://www.salesforce.com/agentforce/mcp-support/",
+        "snippet": "Connect Agentforce to new tools and resources with secure, open interoperability through verified MCP server support from AgentExchange partners.",
+        "source_type": "OFFICIAL",
+        "source_score": 76,
+        "field": "mcp",
+        "official": true
+      }
+    ]
+  }
+}

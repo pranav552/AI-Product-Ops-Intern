@@ -1,0 +1,185 @@
+{
+  "app_name": "Notion",
+  "sources": {
+    "authentication": [
+      {
+        "url": "https://developers.notion.com/guides/get-started/authorization",
+        "title": "Notion official authentication documentation",
+        "source_type": "official",
+        "source_score": 1.0
+      },
+      {
+        "url": "https://developers.notion.com/reference/authentication",
+        "title": "Authentication - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://developers.notion.com/guides/get-started/overview",
+        "title": "Overview - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://public-api.org/api/425/notion",
+        "title": "Notion API - Documentation, Review & Integration Guide",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://agentsapis.com/notion-api/",
+        "title": "Notion API - Complete Developer Guide - agentsapis.com",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/help/create-integrations-with-the-notion-api",
+        "title": "Create integrations with the Notion API | Notion Help - Notion Help Center",
+        "source_type": "search",
+        "source_score": 0.5
+      }
+    ],
+    "access": [
+      {
+        "url": "https://developers.notion.com/",
+        "title": "Overview - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://parse.bot/marketplace/f3305bd5-4895-4339-8d82-f3c4bdb9e867/developers-notion-com-api",
+        "title": "Notion Developer Docs API – Search & Browse - Parse.bot",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/product/dev",
+        "title": "Build with Notion's Developer Platform – Notion",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/help/guides/connect-tools-to-notion-api",
+        "title": "Connect your tools to Notion with the API",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/templates/category/api-documentation",
+        "title": "API Documentation Templates for Notion | Endpoints, Auth, Errors, Examples | Notion Marketplace",
+        "source_type": "search",
+        "source_score": 0.5
+      }
+    ],
+    "api": [
+      {
+        "url": "https://developers.notion.com/reference/intro",
+        "title": "Notion official api documentation",
+        "source_type": "official",
+        "source_score": 1.0
+      }
+    ],
+    "webhooks": [
+      {
+        "url": "https://developers.notion.com/reference/webhooks",
+        "title": "Webhooks - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://developers.notion.com/workers/guides/webhooks",
+        "title": "Webhooks - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://dev.to/robbiecahill/notion-webhooks-a-complete-guide-for-developers-2025-hop",
+        "title": "Notion Webhooks: A Complete Guide for Developers (2025)",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/help/webhook-actions",
+        "title": "Webhook actions in Notion automations | Notion Help – Notion ...",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://hookdeck.com/webhooks/platforms/guide-to-notion-webhooks-features-and-best-practices",
+        "title": "Guide to Notion Webhooks: Features and Best Practices",
+        "source_type": "search",
+        "source_score": 0.5
+      }
+    ],
+    "mcp": [
+      {
+        "url": "https://developers.notion.com/docs/mcp",
+        "title": "Notion official mcp documentation",
+        "source_type": "official",
+        "source_score": 1.0
+      },
+      {
+        "url": "https://developers.notion.com/guides/mcp/overview",
+        "title": "Notion MCP - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://developers.notion.com/guides/mcp/get-started-with-mcp",
+        "title": "Connect to Notion MCP",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/help/notion-mcp",
+        "title": "Connect AI tools with Notion MCP | Notion Help – Notion Help ...",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://github.com/makenotion/notion-mcp-server",
+        "title": "GitHub - makenotion/notion-mcp-server: Official Notion MCP ...",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://developer.affinity.co/pages/mcp/notion",
+        "title": "Notion - Affinity Developer Documentation",
+        "source_type": "search",
+        "source_score": 0.5
+      }
+    ],
+    "pricing_access": [
+      {
+        "url": "https://developers.notion.com/guides/get-started/overview",
+        "title": "Overview - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://www.notion.com/help/category/developer-platform",
+        "title": "Explore developer tools – Notion Help Center",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://developers.notion.com/reference/intro",
+        "title": "Introduction - Notion Docs",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://requestly.com/api-explorer/notion/",
+        "title": "Notion API | API Explorer",
+        "source_type": "search",
+        "source_score": 0.5
+      },
+      {
+        "url": "https://needaiforthis.com/pricing/notion-developer-platform",
+        "title": "Notion Developer Platform Pricing 2026 — Plans & Free Tier",
+        "source_type": "search",
+        "source_score": 0.5
+      }
+    ]
+  }
+}
