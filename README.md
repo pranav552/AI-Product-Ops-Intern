@@ -30,7 +30,7 @@ The pipeline is designed so that claims must be supported by fetched evidence. C
 
 
 
-\[link to be added after deployment]
+[View the live case study](https://gorgeous-raindrop-15689c.netlify.app/)
 
 
 
